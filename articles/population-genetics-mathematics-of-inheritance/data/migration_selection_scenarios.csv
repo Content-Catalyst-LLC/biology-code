@@ -1,0 +1,5 @@
+scenario,generations,p1_0,p2_0,m12,m21,s1,s2
+local_adaptation_with_gene_flow,150,0.80,0.20,0.03,0.03,0.08,-0.04
+strong_gene_flow,150,0.80,0.20,0.10,0.10,0.08,-0.04
+asymmetric_migration,150,0.75,0.25,0.08,0.01,0.06,-0.03
+weak_selection,150,0.75,0.25,0.03,0.03,0.02,-0.01
