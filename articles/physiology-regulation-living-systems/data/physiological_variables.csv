@@ -1,0 +1,6 @@
+variable,description,example_measure
+regulated_variable,internal quantity under control,glucose osmotic state temperature or pH proxy
+hormonal_signal,signaling intermediate that responds to deviation,hormone or regulatory signal proxy
+effector_response,downstream corrective process,uptake secretion heat loss or transport proxy
+stress_load,systemic physiological burden,thermal dehydration hypoxia or toxic stress proxy
+recovery_error,distance from regulated target,absolute difference from target state

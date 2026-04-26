@@ -1,0 +1,5 @@
+threshold_name,value,description
+recovery_error_well_regulated,0.5,illustrative recovery error threshold for good regulation
+recovery_error_strained,1.5,illustrative recovery error threshold for strained regulation
+condition_score_buffered,0.60,illustrative condition score for relatively buffered regulation
+condition_score_stressed,0.42,illustrative condition score for stressed regulation
