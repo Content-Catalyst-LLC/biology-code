@@ -1,0 +1,5 @@
+polymer,monomer_count,mean_monomer_mass_Da,water_loss_per_bond_Da
+short_peptide,12,110,18.015
+medium_peptide,75,110,18.015
+oligosaccharide,18,180,18.015
+dna_fragment,120,330,18.015

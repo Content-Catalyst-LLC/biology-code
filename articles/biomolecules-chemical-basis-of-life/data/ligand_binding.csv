@@ -1,0 +1,7 @@
+condition,ligand_uM,Kd_uM
+low_ligand,0.5,8
+moderate_ligand,4,8
+near_kd,8,8
+high_ligand,25,8
+strong_binding,4,2
+weak_binding,4,20

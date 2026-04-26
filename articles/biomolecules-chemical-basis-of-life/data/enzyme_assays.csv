@@ -1,0 +1,9 @@
+assay_id,substrate_mM,Vmax,Km
+baseline_1,0.5,100,3
+baseline_2,1.0,100,3
+baseline_3,2.0,100,3
+baseline_4,5.0,100,3
+baseline_5,10.0,100,3
+baseline_6,20.0,100,3
+high_capacity_1,5.0,140,4
+low_affinity_1,5.0,100,9

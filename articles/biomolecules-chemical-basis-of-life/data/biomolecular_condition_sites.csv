@@ -1,0 +1,7 @@
+site,carbohydrate_support,lipid_boundary_function,protein_function,nucleic_acid_integrity,metabolite_balance,cofactor_availability,stress_penalty
+reference_cell_state,0.84,0.82,0.86,0.88,0.80,0.78,0.18
+energy_storage_deficit,0.42,0.76,0.74,0.82,0.58,0.70,0.48
+membrane_disruption_state,0.72,0.38,0.68,0.80,0.62,0.66,0.60
+protein_misfolding_state,0.76,0.72,0.34,0.82,0.60,0.58,0.66
+genomic_damage_state,0.78,0.74,0.70,0.36,0.64,0.62,0.70
+metabolic_cofactor_limited_state,0.70,0.72,0.62,0.78,0.42,0.30,0.58
