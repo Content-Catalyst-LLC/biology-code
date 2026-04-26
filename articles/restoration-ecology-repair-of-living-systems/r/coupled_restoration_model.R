@@ -1,9 +1,4 @@
 # Coupled Restoration Model in R
-#
-# This script models restoration as coupled recovery of:
-# - vegetation structure (V)
-# - soil or microbial recovery (M)
-# - functional integrity (F)
 
 library(tidyverse)
 

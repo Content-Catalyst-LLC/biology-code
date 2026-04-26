@@ -11,8 +11,12 @@ Describe the computational biology, ecological, statistical, molecular, evolutio
 - Python workflows
 - R workflows
 - Julia scientific-computing examples
+- Fortran numerical examples
+- Rust command-line utilities
+- Go workflow helpers
+- C compact computational kernels
+- C++ simulation or performance examples
 - SQL schema and provenance tables
-- C/C++/Fortran/Rust examples where relevant
 - documentation
 - sample data
 - notebooks

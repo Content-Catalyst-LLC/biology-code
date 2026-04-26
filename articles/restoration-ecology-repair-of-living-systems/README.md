@@ -8,10 +8,18 @@ This repository folder expands the article's compact quantitative examples into 
 
 ## Included Materials
 
-- R workflows for coupled restoration trajectories and scenario screening
 - Python workflows for restoration scenario simulation, recovery classification, and monitoring summaries
+- R workflows for coupled restoration trajectories and scenario screening
+- Julia numerical restoration model scaffold
+- Fortran recovery table scaffold
+- Rust command-line restoration scenario utility
+- Go command-line restoration scenario utility
+- C compact recovery model example
+- C++ parameter sweep scaffold
 - SQL schema for restoration projects, indicators, interventions, monitoring records, scenarios, and provenance
-- documentation and sample data tables
+- notebooks folder for future computational restoration notebooks
+- setup, methodology, and reproducibility documentation
+- sample data tables
 
 ## Core Conceptual Model
 
@@ -19,10 +27,16 @@ A simple recovery model can be written as:
 
 dR/dt = k(T - R)
 
+where:
+
+- R = current restoration state
+- T = target functional condition
+- k = recovery rate
+
 A coupled restoration system can be written as:
 
-dV/dt = aS - bV - cD  
-dM/dt = pV + qB - rM  
+dV/dt = aS - bV - cD
+dM/dt = pV + qB - rM
 dF/dt = uV + vM - wD
 
 where:

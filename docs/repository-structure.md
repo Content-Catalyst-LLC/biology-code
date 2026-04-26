@@ -1,6 +1,6 @@
 # Repository Structure
 
-This repository mirrors the Physics code repository pattern.
+This repository supports Biology articles with article-specific computational workflows.
 
 ## Root-Level Folders
 
@@ -10,6 +10,24 @@ This repository mirrors the Physics code repository pattern.
 - `docs/` — repository-level documentation
 - `data/` — repository-level data scaffolding
 - `notebooks/` — exploratory notebooks
+
+## Article Folders
+
+Each article folder should contain:
+
+- README.md
+- python/
+- r/
+- julia/
+- fortran/
+- rust/
+- go/
+- c/
+- cpp/
+- sql/
+- docs/
+- data/
+- notebooks/
 
 ## Article URL Pattern
 
