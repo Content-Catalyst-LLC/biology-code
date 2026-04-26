@@ -1,0 +1,7 @@
+parameter,value,units,description
+dt,0.1,time_units,numerical time step
+time_end,40,time_units,end of simulation
+tau,3,time_units,membrane-like time constant
+v_rest,-65,mV,resting membrane-like value
+resistance_scale,1,arbitrary,input scaling parameter
+threshold,-60,mV,simplified response threshold
