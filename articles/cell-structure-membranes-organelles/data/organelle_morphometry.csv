@@ -1,0 +1,9 @@
+cell_id,condition,cell_area_um2,mitochondrial_area_um2,er_area_um2,golgi_area_um2,lysosome_count,nucleus_area_um2
+cell_1,control,420,62,105,28,18,96
+cell_2,control,390,55,98,25,15,90
+cell_3,control,455,75,114,31,22,102
+cell_4,control,500,82,132,34,25,110
+cell_5,stress,370,48,92,20,14,85
+cell_6,stress,610,96,155,42,33,136
+cell_7,stress,580,88,149,39,29,128
+cell_8,stress,450,70,118,30,20,98

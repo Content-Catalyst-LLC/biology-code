@@ -1,0 +1,11 @@
+source,target,interaction_weight,interaction_type
+ER,Golgi,0.92,vesicular_traffic
+ER,Mitochondria,0.74,membrane_contact
+Golgi,Plasma_membrane,0.88,secretory_traffic
+Golgi,Lysosome,0.81,endolysosomal_traffic
+Mitochondria,Nucleus,0.62,retrograde_signaling
+Lysosome,Autophagosome,0.69,degradation_traffic
+Peroxisome,Mitochondria,0.57,metabolic_crosstalk
+ER,Peroxisome,0.51,lipid_exchange
+Plasma_membrane,Endosome,0.83,endocytosis
+Endosome,Lysosome,0.86,maturation

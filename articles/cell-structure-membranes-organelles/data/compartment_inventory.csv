@@ -1,0 +1,9 @@
+compartment,estimated_volume_um3,estimated_surface_area_um2,primary_function
+plasma_membrane,0,1450,boundary_transport_signaling
+nucleus,520,410,information_control
+mitochondria,210,760,energy_redox_signaling
+endoplasmic_reticulum,340,1280,protein_lipid_calcium_logistics
+golgi,85,260,sorting_processing_trafficking
+lysosome,42,190,degradation_recycling
+peroxisome,28,120,oxidation_detoxification
+cytosol,1800,0,reaction_medium_transport
