@@ -1,0 +1,7 @@
+record_id,taxon,decimal_latitude,decimal_longitude,country,basis_of_record,identification_confidence
+occ_001,taxon_A,25.7617,-80.1918,United States,human_observation,0.92
+occ_002,taxon_A,26.1224,-80.1373,United States,preserved_specimen,0.96
+occ_003,taxon_B,18.4655,-66.1057,Puerto Rico,human_observation,0.88
+occ_004,taxon_C,13.1939,-59.5432,Barbados,machine_observation,0.74
+occ_005,taxon_D,17.9712,-76.7936,Jamaica,preserved_specimen,0.91
+occ_006,taxon_E,10.6918,-61.2225,Trinidad and Tobago,material_sample,0.83

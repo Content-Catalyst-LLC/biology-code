@@ -1,0 +1,6 @@
+record_id,candidate_taxon,sequence_similarity,morphological_support,geographic_plausibility,phylogenetic_support,uncertainty_penalty
+obs_001,Species_A,0.98,0.90,0.88,0.94,0.05
+obs_002,Species_B,0.91,0.65,0.82,0.70,0.20
+obs_003,Species_C,0.84,0.78,0.55,0.62,0.32
+obs_004,Species_D,0.73,0.40,0.30,0.45,0.55
+obs_005,Species_E,0.89,0.72,0.76,0.81,0.18
