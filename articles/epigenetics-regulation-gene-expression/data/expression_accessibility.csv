@@ -1,0 +1,7 @@
+gene,control_expr,treated_expr,control_access,treated_access
+GATA3,12.0,25.0,0.32,0.56
+HSP70,18.0,60.0,0.41,0.73
+DNMT1,22.0,17.0,0.55,0.46
+MYC,45.0,30.0,0.71,0.49
+COL1A1,31.0,20.0,0.48,0.33
+NRF2,14.0,29.0,0.36,0.61

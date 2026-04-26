@@ -1,0 +1,4 @@
+scenario,kon,koff,alpha_on,alpha_off,beta,p_on0,m0,t_end,dt
+baseline_activation,0.28,0.10,14.0,1.0,0.35,0.05,2.0,30,0.05
+stable_activation,0.40,0.05,12.0,1.0,0.25,0.10,2.0,30,0.05
+transient_low_activation,0.14,0.20,10.0,1.0,0.40,0.05,2.0,30,0.05

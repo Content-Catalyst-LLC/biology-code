@@ -1,0 +1,5 @@
+site,expression_stability,accessibility_signal,methylation_quality,state_memory,environmental_responsiveness,batch_risk
+reference_cell_system,0.72,0.76,0.70,0.74,0.62,0.20
+stressed_plant_tissue,0.58,0.68,0.61,0.52,0.86,0.28
+tumor_like_dysregulation,0.31,0.82,0.77,0.34,0.66,0.36
+microbial_stress_response,0.49,0.43,0.22,0.41,0.88,0.32
