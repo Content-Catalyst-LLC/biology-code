@@ -1,0 +1,5 @@
+assay,true_positive,false_negative,true_negative,false_positive
+biosensor_A,84,16,91,9
+biosensor_B,76,24,95,5
+sequence_test_A,92,8,88,12
+field_test_A,68,32,89,11

@@ -1,0 +1,6 @@
+experiment,signal_strength,reproducibility,control_separation,noise_penalty
+growth_assay_A,0.86,0.82,0.78,0.14
+growth_assay_B,0.70,0.74,0.62,0.28
+biosensor_A,0.84,0.80,0.88,0.18
+field_monitoring_A,0.62,0.58,0.54,0.36
+imaging_assay_A,0.76,0.70,0.72,0.22
