@@ -1,0 +1,5 @@
+scenario,time_steps,N0,lambda_rate,mu_rate,n_iter
+net_positive,150,8,0.10,0.03,1000
+near_equilibrium,150,8,0.07,0.06,1000
+high_turnover,150,8,0.14,0.12,1000
+high_extinction,150,8,0.06,0.11,1000

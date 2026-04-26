@@ -1,0 +1,5 @@
+scenario,generations,p0,N,w_AA,w_Aa,w_aa,mu,nu,m,p_migrant,drift,seed
+neutral_large_pop,220,0.50,5000,1.00,1.00,1.00,0.0000,0.0000,0.000,0.50,true,123
+positive_selection,220,0.20,1000,1.12,1.05,1.00,0.0000,0.0000,0.000,0.50,true,124
+migration_selection,220,0.80,1000,1.08,1.02,1.00,0.0000,0.0000,0.030,0.20,true,125
+mutation_selection_balance,220,0.98,3000,1.00,0.97,0.90,0.0010,0.0001,0.000,0.50,false,126

@@ -1,0 +1,5 @@
+site,standing_variation,phylogenetic_signal,fossil_record_strength,environmental_change,extinction_pressure,adaptive_capacity
+reference_lineage,0.72,0.78,0.70,0.34,0.22,0.68
+fragmented_relict_group,0.38,0.74,0.82,0.71,0.76,0.31
+rapidly_evolving_pathogen,0.88,0.52,0.20,0.63,0.35,0.86
+well_sampled_fossil_clade,0.55,0.66,0.94,0.42,0.30,0.52
