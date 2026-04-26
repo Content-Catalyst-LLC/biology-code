@@ -1,0 +1,5 @@
+scenario,initial_abundance,growth_rate,carrying_capacity,time_end,dt
+high_capacity,100,0.35,10000,40,0.5
+resource_limited,100,0.35,1200,40,0.5
+stress_limited,100,0.20,800,40,0.5
+recovery_growth,100,0.28,1500,40,0.5

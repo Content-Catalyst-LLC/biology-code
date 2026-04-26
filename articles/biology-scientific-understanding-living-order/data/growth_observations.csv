@@ -1,0 +1,13 @@
+time,abundance,condition
+0,100,control
+2,149,control
+4,222,control
+6,331,control
+8,493,control
+10,735,control
+0,100,stress_limited
+2,128,stress_limited
+4,164,stress_limited
+6,210,stress_limited
+8,269,stress_limited
+10,345,stress_limited

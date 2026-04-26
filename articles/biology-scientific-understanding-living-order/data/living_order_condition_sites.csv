@@ -1,0 +1,7 @@
+site,homeostatic_regulation,metabolic_throughput,structural_integration,developmental_coordination,information_continuity,ecological_relation,stress_penalty
+reference_living_system,0.86,0.84,0.82,0.78,0.88,0.80,0.18
+metabolic_stress_state,0.68,0.38,0.70,0.66,0.80,0.72,0.58
+regulatory_failure_state,0.34,0.66,0.70,0.62,0.78,0.68,0.64
+developmental_disruption_state,0.72,0.70,0.66,0.36,0.76,0.68,0.60
+ecosystem_fragmentation_state,0.70,0.72,0.64,0.66,0.74,0.34,0.70
+recovery_state,0.78,0.76,0.74,0.72,0.80,0.76,0.32

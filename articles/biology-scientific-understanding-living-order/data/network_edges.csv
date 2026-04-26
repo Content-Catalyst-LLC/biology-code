@@ -1,0 +1,11 @@
+source,target,interaction_weight,interaction_type
+phytoplankton,zooplankton,0.92,trophic
+zooplankton,small_fish,0.80,trophic
+small_fish,predator_fish,0.65,trophic
+detritus,microbes,0.75,decomposition
+microbes,nutrients,0.88,recycling
+plants,herbivores,0.70,trophic
+soil_fungi,plants,0.77,symbiosis
+pollinators,plants,0.73,mutualism
+microbiome,host,0.69,symbiosis
+predator_fish,nutrients,0.40,mortality_recycling

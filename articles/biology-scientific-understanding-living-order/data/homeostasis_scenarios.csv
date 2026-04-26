@@ -1,0 +1,6 @@
+scenario,initial_value,setpoint,correction_rate,time_end,dt
+osmotic_recovery,10,2,0.40,20,0.01
+slow_recovery,10,2,0.12,20,0.01
+rapid_recovery,10,2,0.85,20,0.01
+acid_base_recovery,7.0,7.4,0.30,20,0.01
+thermal_recovery,42,37,0.25,20,0.01
