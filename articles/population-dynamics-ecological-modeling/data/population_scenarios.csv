@@ -1,0 +1,6 @@
+scenario,initial_population,growth_rate_mean,growth_rate_sd,carrying_capacity_mean,carrying_capacity_sd,harvest,catastrophe_probability,catastrophe_multiplier,quasi_extinction_threshold
+baseline,80,0.18,0.08,500,40,5,0.05,0.60,20
+higher_harvest,80,0.18,0.08,500,40,15,0.05,0.60,20
+lower_capacity,80,0.15,0.10,300,60,5,0.06,0.55,20
+restoration_gain,80,0.20,0.07,650,50,3,0.03,0.70,20
+catastrophe_stress,80,0.18,0.08,500,40,5,0.12,0.50,20

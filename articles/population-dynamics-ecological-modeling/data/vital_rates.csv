@@ -1,0 +1,4 @@
+population_id,stage,survival,transition,fecundity,notes
+pop_A,juveniles,0.45,0.45,0.00,synthetic juvenile stage
+pop_A,subadults,0.70,0.70,0.00,synthetic subadult stage
+pop_A,adults,0.82,0.82,1.80,synthetic adult stage
