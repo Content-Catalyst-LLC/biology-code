@@ -1,0 +1,6 @@
+[package]
+name = "habitability_support_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -1,0 +1,8 @@
+flux_id,reservoir,input_output_or_transformation,flux_name,value,unit_of_measure,notes
+1,atmosphere,input,fossil_emissions,10.0,carbon_units,synthetic annual fossil emissions
+2,atmosphere,input,land_use_emissions,1.0,carbon_units,synthetic land-use emissions
+3,atmosphere,input,disturbance_release,0.5,carbon_units,synthetic disturbance release
+4,atmosphere,output,land_uptake,3.0,carbon_units,synthetic land uptake
+5,atmosphere,output,ocean_uptake,2.6,carbon_units,synthetic ocean uptake
+6,coastal_water,input,reactive_nitrogen_loading,1.0,nitrogen_units,synthetic nutrient loading
+7,coastal_water,output,coastal_assimilation,0.65,fraction,synthetic assimilation fraction

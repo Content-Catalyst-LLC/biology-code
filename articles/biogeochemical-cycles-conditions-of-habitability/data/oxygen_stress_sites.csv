@@ -1,0 +1,6 @@
+site_id,oxygen_production,respiration_demand,decomposition_demand,stratification_limitation,baseline_oxygen
+S1,6.2,2.1,1.3,0.6,8.0
+S2,5.1,2.4,1.8,0.9,7.1
+S3,3.9,2.8,2.2,1.4,6.2
+S4,6.8,1.9,1.1,0.4,8.5
+S5,4.6,2.6,2.4,1.2,6.8

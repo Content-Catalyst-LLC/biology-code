@@ -1,0 +1,7 @@
+observation_id,site_id,event_date,observer,method,indicator,value,unit_of_measure
+1,S1,2026-04-01,field_team,grab_sample,nitrate,1.8,mg_per_l
+2,S1,2026-04-01,field_team,grab_sample,phosphate,0.09,mg_per_l
+3,S2,2026-04-02,water_team,multiparameter_sonde,dissolved_oxygen,7.1,mg_per_l
+4,S3,2026-04-03,marine_team,carbonate_chemistry,pH,7.82,pH_units
+5,S4,2026-04-04,soil_team,soil_core,soil_organic_carbon,4.2,percent
+6,S5,2026-04-05,microbial_team,incubation,denitrification_potential,0.34,index
