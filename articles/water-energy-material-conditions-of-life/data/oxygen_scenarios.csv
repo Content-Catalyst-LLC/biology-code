@@ -1,0 +1,6 @@
+scenario,oxygen_mg_L,half_saturation_mg_L,max_relative_energy_rate
+anoxic,0.0,2.0,1.0
+hypoxic,1.0,2.0,1.0
+moderate,4.0,2.0,1.0
+oxygenated,8.0,2.0,1.0
+supersaturated,11.0,2.0,1.0

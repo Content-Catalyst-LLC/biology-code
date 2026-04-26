@@ -1,0 +1,7 @@
+site,water_availability,osmotic_stability,energy_availability,oxygen_support,thermal_suitability,ph_stability,stress_penalty
+reference_cell_state,0.86,0.82,0.84,0.80,0.78,0.82,0.18
+dehydration_state,0.34,0.46,0.68,0.78,0.72,0.70,0.58
+hypoxic_state,0.78,0.74,0.40,0.32,0.70,0.68,0.62
+marine_acidification_state,0.82,0.70,0.66,0.72,0.68,0.38,0.55
+thermal_stress_state,0.74,0.70,0.62,0.68,0.30,0.66,0.64
+plant_drought_state,0.38,0.48,0.58,0.74,0.66,0.70,0.60

@@ -1,0 +1,6 @@
+scenario,solute_potential_MPa,pressure_potential_MPa,gravitational_potential_MPa,matric_potential_MPa
+well_watered_leaf,-0.60,0.45,0.01,-0.02
+drought_leaf,-1.40,0.10,0.01,-0.08
+wet_soil,-0.05,0.00,-0.01,-0.03
+dry_soil,-0.35,0.00,-0.01,-0.65
+saline_root_zone,-0.90,0.05,-0.01,-0.12

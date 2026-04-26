@@ -1,0 +1,5 @@
+scenario,energy_input,energy_growth,energy_maintenance,energy_repair,energy_loss
+control,100,42,33,15,10
+water_stress,100,25,42,23,10
+hypoxia,100,20,45,25,10
+recovery,100,32,35,25,8

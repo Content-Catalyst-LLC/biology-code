@@ -1,0 +1,7 @@
+scenario,van_t_hoff_factor,concentration_mol_L,temperature_K
+baseline,1,0.15,298
+moderate_saline,2,0.30,298
+high_saline,2,0.60,298
+dilute,1,0.05,298
+warm_saline,2,0.30,308
+cold_saline,2,0.30,278

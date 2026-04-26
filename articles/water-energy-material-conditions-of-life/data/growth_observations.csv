@@ -1,0 +1,11 @@
+time_h,abundance,condition
+0,100000,control
+12,140000,control
+24,200000,control
+36,280000,control
+48,400000,control
+0,100000,water_stress
+12,123000,water_stress
+24,152000,water_stress
+36,188000,water_stress
+48,235000,water_stress
