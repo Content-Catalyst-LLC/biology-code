@@ -1,0 +1,5 @@
+scenario,generations,p0,w_AA,w_Aa,w_aa
+directional_for_A,180,0.20,1.15,1.08,1.00
+heterozygote_advantage,180,0.20,0.90,1.00,0.80
+heterozygote_disadvantage,180,0.50,1.00,0.70,0.95
+purifying_against_A,180,0.70,0.75,0.92,1.00

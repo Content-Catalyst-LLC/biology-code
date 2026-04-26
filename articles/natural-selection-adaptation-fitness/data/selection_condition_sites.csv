@@ -1,0 +1,5 @@
+site,standing_variation,selection_strength,environmental_match,demographic_stability,gene_flow_support,constraint_risk
+reference_population,0.72,0.58,0.70,0.74,0.62,0.22
+fragmented_adaptation_lag,0.38,0.76,0.34,0.40,0.20,0.71
+pathogen_resistance_system,0.84,0.88,0.79,0.68,0.55,0.25
+restoration_target_site,0.61,0.52,0.57,0.60,0.48,0.36
