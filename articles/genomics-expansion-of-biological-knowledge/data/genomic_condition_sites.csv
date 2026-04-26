@@ -1,0 +1,5 @@
+site,assembly_quality,annotation_depth,variant_quality,expression_signal,population_representation,provenance_quality,bias_risk
+reference_genome_project,0.84,0.78,0.72,0.66,0.62,0.80,0.22
+conservation_panel,0.68,0.61,0.76,0.40,0.82,0.74,0.30
+metagenomic_survey,0.55,0.58,0.42,0.36,0.70,0.64,0.41
+clinical_variant_screen,0.72,0.83,0.88,0.50,0.58,0.79,0.27
