@@ -1,0 +1,5 @@
+scenario,t_end,dt,progenitor0,k1,k2
+balanced_branching,30,0.1,1000,0.14,0.09
+lineage1_dominant,30,0.1,1000,0.20,0.05
+lineage2_dominant,30,0.1,1000,0.07,0.17
+slow_commitment,30,0.1,1000,0.06,0.04

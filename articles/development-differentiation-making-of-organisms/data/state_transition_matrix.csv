@@ -1,0 +1,5 @@
+state,progenitor,transitional,lineage_A,lineage_B
+progenitor,0.76,0.20,0.03,0.01
+transitional,0.04,0.72,0.16,0.08
+lineage_A,0.00,0.03,0.94,0.03
+lineage_B,0.00,0.02,0.04,0.94
