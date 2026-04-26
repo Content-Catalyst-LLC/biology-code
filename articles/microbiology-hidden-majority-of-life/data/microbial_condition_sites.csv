@@ -1,0 +1,5 @@
+site,functional_richness,nitrification_potential,denitrification_balance,pathogen_signal,organic_overload
+reference_wetland,0.82,0.74,0.71,0.10,0.18
+restored_marsh,0.67,0.58,0.60,0.16,0.25
+eutrophic_pond,0.39,0.33,0.29,0.31,0.77
+agricultural_drainage,0.45,0.49,0.43,0.27,0.61

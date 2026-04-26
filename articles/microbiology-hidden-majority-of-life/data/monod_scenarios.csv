@@ -1,0 +1,4 @@
+scenario,N0,S0,mu_max,Ks,yield_coeff
+rich_media,10000,150,0.9,15,1000000
+poor_media,10000,50,0.6,25,1000000
+stress_condition,10000,50,0.3,30,1000000

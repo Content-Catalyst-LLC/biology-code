@@ -1,0 +1,7 @@
+process,description,example_context
+nitrification,oxidation of ammonia to nitrite or nitrate,soil water and wastewater systems
+denitrification,reduction of nitrate toward gaseous nitrogen species,wetlands sediments and low oxygen soils
+methanogenesis,anaerobic methane production,wetlands ruminants sediments and digesters
+methane_oxidation,microbial oxidation of methane,soils sediments water columns and interfaces
+fermentation,anaerobic energy metabolism producing reduced end products,guts foods sediments and industrial systems
+decomposition,microbial breakdown of organic matter,soils litter water columns and detrital systems

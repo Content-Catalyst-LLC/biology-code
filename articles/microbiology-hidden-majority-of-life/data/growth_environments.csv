@@ -1,0 +1,5 @@
+environment,temp,ph,K,N0,r0
+reference,20,7.0,100000000,10000,0.35
+acid_stress,20,5.5,70000000,10000,0.35
+warm_enriched,28,7.2,150000000,10000,0.35
+cool_limited,12,7.0,50000000,10000,0.35

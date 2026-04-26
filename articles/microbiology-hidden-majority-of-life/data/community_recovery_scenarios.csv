@@ -1,0 +1,5 @@
+scenario,B0,r,K,m,pulse_day,pulse_size
+disturbed_no_intervention,8,0.05,60,0.030,,0
+carbon_amendment,8,0.06,75,0.025,,0
+inoculated,8,0.06,75,0.025,14,5
+inoculated_plus_habitat_repair,8,0.075,95,0.018,14,8
