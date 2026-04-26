@@ -1,0 +1,5 @@
+phenotype,observed,expected_ratio
+A_B_,902,0.5625
+A_bb,297,0.1875
+aaB_,305,0.1875
+aabb,96,0.0625

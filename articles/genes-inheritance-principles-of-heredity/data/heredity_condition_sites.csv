@@ -1,0 +1,5 @@
+site,standing_variation,inheritance_clarity,recombination_information,population_size,genotype_quality,environmental_context,inbreeding_risk
+reference_population,0.76,0.78,0.64,0.72,0.81,0.70,0.18
+bottlenecked_population,0.32,0.66,0.40,0.28,0.70,0.58,0.72
+crop_breeding_panel,0.82,0.74,0.70,0.68,0.76,0.62,0.22
+restoration_seed_source,0.58,0.60,0.44,0.52,0.66,0.80,0.36
