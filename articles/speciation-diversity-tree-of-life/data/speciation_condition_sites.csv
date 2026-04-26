@@ -1,0 +1,5 @@
+site,allele_divergence,reproductive_isolation,ecological_difference,phylogenetic_resolution,gene_flow_risk,lineage_distinctiveness
+reference_pair,0.68,0.72,0.66,0.78,0.20,0.74
+hybrid_zone,0.46,0.38,0.55,0.63,0.72,0.50
+island_radiation,0.74,0.69,0.82,0.70,0.18,0.80
+microbial_complex,0.51,0.30,0.61,0.52,0.45,0.58

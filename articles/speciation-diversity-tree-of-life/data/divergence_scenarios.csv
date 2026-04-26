@@ -1,0 +1,5 @@
+scenario,generations,loci,N1,N2,m12,m21,sel_sd,seed
+low_migration,250,300,300,300,0.002,0.002,0.015,42
+higher_migration,250,300,300,300,0.020,0.020,0.015,43
+stronger_selection,250,300,300,300,0.002,0.002,0.030,44
+small_population_drift,250,300,100,100,0.002,0.002,0.010,45
