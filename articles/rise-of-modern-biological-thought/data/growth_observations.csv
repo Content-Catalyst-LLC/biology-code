@@ -1,0 +1,13 @@
+time,population,scenario
+0,100,baseline
+2,148,baseline
+4,219,baseline
+6,324,baseline
+8,479,baseline
+10,708,baseline
+0,100,slower_growth
+2,132,slower_growth
+4,174,slower_growth
+6,230,slower_growth
+8,303,slower_growth
+10,400,slower_growth

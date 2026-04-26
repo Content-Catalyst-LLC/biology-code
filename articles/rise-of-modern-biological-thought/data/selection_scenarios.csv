@@ -1,0 +1,5 @@
+scenario,p_initial,w_AA,w_Aa,w_aa,generations
+neutral,0.50,1.00,1.00,1.00,20
+directional_A,0.50,1.10,1.05,1.00,20
+heterozygote_advantage,0.50,0.90,1.10,0.90,20
+against_AA,0.70,0.80,1.00,1.00,20

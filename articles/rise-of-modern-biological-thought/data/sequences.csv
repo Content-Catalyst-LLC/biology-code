@@ -1,0 +1,5 @@
+sequence_id,sequence
+reference_A,ATGCTAGCTAAC
+reference_B,ATGCTAGCTATC
+reference_C,ATGCCAGCTATC
+query_001,ATGCTAGCTATC

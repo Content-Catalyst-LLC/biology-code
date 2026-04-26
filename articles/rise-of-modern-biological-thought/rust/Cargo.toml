@@ -1,0 +1,6 @@
+[package]
+name = "modern_biology_genetics_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
