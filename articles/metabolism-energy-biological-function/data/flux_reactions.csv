@@ -1,0 +1,5 @@
+reaction,lower_bound,upper_bound,objective_weight
+glucose_uptake,10,10,0
+biomass,0,10,1
+product,0,10,0.25
+respiration,0,10,0

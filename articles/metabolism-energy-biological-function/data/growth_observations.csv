@@ -1,0 +1,11 @@
+time_h,abundance,condition
+0,100000,control
+12,140000,control
+24,200000,control
+36,280000,control
+48,400000,control
+0,100000,stressed
+12,126000,stressed
+24,158000,stressed
+36,198000,stressed
+48,250000,stressed

@@ -1,0 +1,5 @@
+experiment,biomass_initial_g_L,biomass_final_g_L,substrate_consumed_g_L,product_g_L,maintenance_estimate_g_L
+culture_A,0.20,0.95,1.50,0.20,0.35
+culture_B,0.25,0.85,1.65,0.35,0.50
+culture_C,0.18,1.05,1.80,0.25,0.45
+stress_D,0.20,0.62,1.60,0.18,0.72

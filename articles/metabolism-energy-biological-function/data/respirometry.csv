@@ -1,0 +1,9 @@
+sample,time_min,oxygen_mg_L,temperature_C
+control_1,0,8.80,20
+control_1,10,8.35,20
+control_1,20,7.92,20
+control_1,30,7.50,20
+stress_1,0,8.80,20
+stress_1,10,8.52,20
+stress_1,20,8.25,20
+stress_1,30,7.98,20
