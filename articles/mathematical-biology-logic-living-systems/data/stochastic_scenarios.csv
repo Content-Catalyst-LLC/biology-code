@@ -1,0 +1,5 @@
+scenario,initial_population,birth_rate,death_rate,time_end,seed
+supercritical,50,0.30,0.24,50,42
+critical,50,0.25,0.25,50,43
+subcritical,50,0.22,0.28,50,44
+small_population,10,0.30,0.24,50,45

@@ -1,0 +1,5 @@
+scenario,prey0,predator0,alpha,beta,delta,gamma,time_end,dt
+baseline,40,9,0.60,0.025,0.018,0.35,80,0.01
+high_predation,40,9,0.60,0.040,0.018,0.35,80,0.01
+low_predator_mortality,40,9,0.60,0.025,0.018,0.20,80,0.01
+low_prey_growth,40,9,0.35,0.025,0.018,0.35,80,0.01

@@ -1,0 +1,5 @@
+scenario,beta,gamma,susceptible0,infected0,recovered0,time_end,dt
+baseline,0.35,0.10,0.99,0.01,0.00,120,0.05
+lower_transmission,0.18,0.10,0.99,0.01,0.00,120,0.05
+faster_recovery,0.35,0.20,0.99,0.01,0.00,120,0.05
+high_transmission,0.55,0.10,0.99,0.01,0.00,120,0.05

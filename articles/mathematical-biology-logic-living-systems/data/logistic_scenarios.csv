@@ -1,0 +1,5 @@
+scenario,initial_population,growth_rate,carrying_capacity,time_end,dt
+baseline,100,0.30,2000,40,0.05
+resource_limited,100,0.18,900,40,0.05
+rapid_growth,100,0.45,2600,40,0.05
+low_capacity,100,0.30,600,40,0.05

@@ -1,0 +1,8 @@
+source,target,interaction,weight
+gene_A,gene_B,activates,0.8
+gene_A,gene_C,represses,0.6
+gene_B,gene_D,activates,0.7
+gene_C,gene_D,activates,0.5
+gene_D,gene_E,represses,0.9
+gene_E,gene_A,activates,0.4
+gene_B,gene_E,activates,0.3
