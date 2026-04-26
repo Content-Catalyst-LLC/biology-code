@@ -1,0 +1,7 @@
+scenario,S,B,D,description
+low_effort_high_disturbance,0.7,0.8,0.8,low restoration effort with continuing high disturbance
+moderate_effort_moderate_disturbance,1.0,0.8,0.5,moderate intervention and moderate disturbance pressure
+high_effort_low_disturbance,1.4,0.8,0.2,high restoration effort with low disturbance pressure
+soil_limited_recovery,1.1,0.3,0.4,aboveground effort with weak belowground support
+high_belowground_support,1.0,1.3,0.4,moderate planting with strong soil or microbial support
+disturbance_reduction_priority,0.9,0.8,0.15,moderate effort focused on reducing continuing disturbance

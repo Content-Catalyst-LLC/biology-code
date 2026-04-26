@@ -1,0 +1,11 @@
+indicator,domain,unit_or_scale,interpretation
+native_vegetation_cover,vegetation,percent,visible recovery of native plant dominance
+seedling_recruitment,vegetation,count_per_square_meter,evidence of regenerative capacity
+soil_organic_matter,soil,percent,rebuilding of soil carbon and structure
+microbial_biomass,soil_microbiology,index,belowground biological recovery
+hydrological_connectivity,hydrology,index,reconnection of flows floodplains or wetlands
+macroinvertebrate_richness,freshwater,count,biological response in aquatic restoration
+pollinator_visitation,community_interaction,visits_per_hour,interaction recovery for plant reproduction
+habitat_complexity,structure,index,physical and biological habitat structure
+functional_integrity,ecosystem_function,index,combined measure of ecological process recovery
+disturbance_pressure,stressor,index,continuing degradation pressure

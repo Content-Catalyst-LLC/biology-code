@@ -1,0 +1,12 @@
+parameter,value,description
+a,0.8,seeding or planting support for vegetation recovery
+b,0.15,vegetation loss rate
+c,0.20,disturbance effect on vegetation
+p,0.10,vegetation contribution to soil or microbial recovery
+q,0.25,belowground support input effect
+r,0.12,soil or microbial loss rate
+u,0.08,vegetation contribution to functional integrity
+v,0.10,soil or microbial contribution to functional integrity
+w,0.18,disturbance effect on functional integrity
+dt,0.05,time step for Euler integration
+T,50,total simulation time
