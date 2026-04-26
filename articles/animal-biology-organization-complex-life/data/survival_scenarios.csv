@@ -1,0 +1,5 @@
+scenario,hazard
+reference,0.005
+heat_stress,0.012
+disease_burden,0.018
+restoration_after_stress,0.008

@@ -1,0 +1,5 @@
+from_stage,to_stage,value
+adult,juvenile,1.4
+juvenile,adult,0.35
+adult,adult,0.72
+juvenile,juvenile,0.0

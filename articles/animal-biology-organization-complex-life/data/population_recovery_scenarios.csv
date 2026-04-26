@@ -1,0 +1,5 @@
+scenario,N0,r,K
+degraded_habitat,20,0.05,80
+partial_restoration,20,0.08,120
+full_restoration,20,0.11,180
+restoration_plus_predator_control,20,0.13,220

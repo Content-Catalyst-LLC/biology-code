@@ -1,0 +1,7 @@
+species,body_mass_kg,habitat,exposure_risk
+shrew,0.01,terrestrial,0.40
+sparrow,0.03,terrestrial,0.42
+rabbit,1.5,terrestrial,0.38
+fox,6.0,terrestrial,0.44
+deer,80.0,terrestrial,0.48
+seal,150.0,marine,0.55

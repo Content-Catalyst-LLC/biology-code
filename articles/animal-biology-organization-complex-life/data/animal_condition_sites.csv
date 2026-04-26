@@ -1,0 +1,5 @@
+site,habitat_quality,food_availability,disease_pressure,heat_stress,reproductive_support,movement_connectivity
+reference_reserve,0.86,0.82,0.08,0.16,0.80,0.78
+fragmented_woodland,0.52,0.58,0.18,0.34,0.50,0.35
+heat_stressed_wetland,0.61,0.55,0.21,0.62,0.47,0.51
+restored_corridor,0.72,0.69,0.13,0.28,0.67,0.76
