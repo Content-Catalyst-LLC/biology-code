@@ -1,0 +1,5 @@
+scenario,lambda,time_horizon
+background,0.05,10
+elevated_crisis,0.18,10
+severe_crisis,0.35,10
+prolonged_disturbance,0.12,20

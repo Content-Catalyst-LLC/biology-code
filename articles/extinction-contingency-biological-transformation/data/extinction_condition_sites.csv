@@ -1,0 +1,5 @@
+site,lineage_irreplaceability,range_contraction,habitat_fragmentation,functional_uniqueness,recovery_potential,monitoring_confidence
+reference_refugium,0.70,0.22,0.18,0.64,0.76,0.82
+fragmented_endemism_zone,0.88,0.71,0.76,0.81,0.34,0.61
+degraded_freshwater_basin,0.76,0.63,0.69,0.72,0.42,0.58
+recovering_landscape,0.54,0.36,0.41,0.50,0.68,0.74

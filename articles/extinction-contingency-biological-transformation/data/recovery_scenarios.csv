@@ -1,0 +1,5 @@
+scenario,N0,r,K,time_horizon
+slow_recovery,5,0.08,40,30
+moderate_recovery,5,0.14,60,30
+rapid_recovery,5,0.22,80,30
+low_ceiling_recovery,5,0.14,35,30

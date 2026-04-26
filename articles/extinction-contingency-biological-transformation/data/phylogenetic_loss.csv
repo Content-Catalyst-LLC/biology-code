@@ -1,0 +1,7 @@
+lineage,branch_length,status
+A,12.0,survived
+B,8.0,extinct
+C,15.0,extinct
+D,5.0,survived
+E,20.0,extinct
+F,9.0,survived
