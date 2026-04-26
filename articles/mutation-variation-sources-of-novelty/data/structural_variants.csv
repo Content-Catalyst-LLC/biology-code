@@ -1,0 +1,6 @@
+variant_id,variant_type,size_bp,overlaps_gene,overlaps_regulatory_region,population_frequency
+sv_001,deletion,1200,true,true,0.012
+sv_002,duplication,85000,true,false,0.280
+sv_003,inversion,43000,false,true,0.041
+sv_004,translocation,210000,true,true,0.004
+sv_005,copy_gain,5600,true,false,0.095

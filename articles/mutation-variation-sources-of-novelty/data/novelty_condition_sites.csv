@@ -1,0 +1,5 @@
+site,mutation_supply,standing_variation,recombination_potential,regulatory_flexibility,developmental_modularity,ecological_opportunity,constraint_risk
+reference_population,0.58,0.74,0.66,0.62,0.61,0.55,0.22
+bottlenecked_population,0.31,0.28,0.32,0.40,0.45,0.48,0.68
+microbial_stress_system,0.88,0.69,0.54,0.76,0.52,0.84,0.30
+crop_breeding_panel,0.63,0.81,0.79,0.58,0.56,0.61,0.24
