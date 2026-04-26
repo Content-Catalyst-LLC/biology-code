@@ -1,0 +1,6 @@
+scenario,resource_value,conflict_cost,hawk_frequency
+low_cost_conflict,10,8,0.50
+balanced_conflict,10,20,0.50
+high_cost_conflict,10,40,0.50
+hawk_dominated,10,20,0.80
+dove_dominated,10,20,0.20

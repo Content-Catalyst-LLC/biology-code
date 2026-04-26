@@ -1,0 +1,5 @@
+option,benefit,energetic_cost,predation_risk
+safe_foraging,8,2,1
+risky_foraging,14,5,6
+territorial_display,10,4,3
+mate_search,12,6,5

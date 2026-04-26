@@ -1,0 +1,6 @@
+scenario,predation_weight,noise_penalty,receiver_state,notes
+baseline,1.2,0.00,0.75,Baseline behavioral condition
+high_predation,1.8,0.00,0.75,Predator pressure increases behavioral cost
+noisy_environment,1.2,0.20,0.75,Signal detectability is reduced
+low_receiver_attention,1.2,0.00,0.55,Receiver state lowers response probability
+combined_stress,1.8,0.20,0.60,Predation pressure and noise increase together

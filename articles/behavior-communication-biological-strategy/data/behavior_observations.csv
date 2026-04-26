@@ -1,0 +1,6 @@
+observation_id,event_date,observer,context,behavior_category,signal_modality,notes
+1,2026-04-01,field_team,foraging,safe_foraging,none,synthetic observation
+2,2026-04-01,field_team,foraging,risky_foraging,none,synthetic observation
+3,2026-04-02,field_team,courtship,mate_search,visual_acoustic,synthetic observation
+4,2026-04-02,field_team,territoriality,territorial_display,visual_postural,synthetic observation
+5,2026-04-03,field_team,communication,loud_signal,acoustic,synthetic observation
