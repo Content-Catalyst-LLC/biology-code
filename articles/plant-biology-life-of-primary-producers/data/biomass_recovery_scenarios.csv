@@ -1,0 +1,5 @@
+scenario,B0,r,K,m,pulse_day,pulse_size
+unassisted_recovery,40,0.008,180,0.003,,0
+soil_repair,40,0.010,220,0.0025,,0
+replanting,40,0.010,220,0.0025,30,15
+replanting_plus_hydrology_repair,40,0.013,280,0.0020,30,20

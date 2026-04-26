@@ -1,0 +1,5 @@
+scenario,alpha,Amax,Rd
+well_watered,0.055,20,1.5
+moderate_drought,0.045,15,1.8
+severe_drought,0.030,9,2.2
+nutrient_limited,0.040,13,1.7
