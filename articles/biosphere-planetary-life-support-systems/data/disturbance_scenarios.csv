@@ -1,0 +1,6 @@
+scenario,disturbance_pressure_change,land_uptake_change,ocean_uptake_change,notes
+baseline,0.00,0.00,0.00,Current synthetic condition
+warming_fire_pressure,0.15,-0.30,0.00,Higher fire and drought pressure
+ocean_heat_stress,0.10,0.00,-0.40,Reduced ocean uptake and marine stress
+restoration_and_protection,-0.10,0.45,0.10,Improved land uptake and lower disturbance
+land_conversion,0.25,-0.60,0.00,Accelerated land-use disruption

@@ -1,0 +1,5 @@
+scenario,emissions_start,emissions_growth,land_uptake_mean,land_uptake_sd,ocean_uptake_mean,ocean_uptake_sd,disturbance_mean,disturbance_sd,shock_probability,shock_multiplier
+baseline,11.0,0.010,3.2,0.5,2.7,0.3,0.6,0.25,0.08,1.8
+high_disturbance,11.0,0.010,3.0,0.6,2.6,0.35,1.1,0.35,0.12,2.2
+restoration_gain,10.5,0.004,3.8,0.45,2.8,0.28,0.45,0.20,0.05,1.5
+ocean_stress,11.0,0.010,3.2,0.5,2.1,0.45,0.7,0.30,0.10,1.8

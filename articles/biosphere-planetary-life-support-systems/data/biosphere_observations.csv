@@ -1,0 +1,7 @@
+observation_id,unit,event_date,observer,method,indicator,value,unit_of_measure
+1,A,2026-04-01,field_team,flux_tower,net_ecosystem_exchange,-2.4,carbon_units
+2,A,2026-04-02,remote_sensing,ndvi_product,vegetation_index,0.82,index
+3,B,2026-04-03,watershed_team,stream_sample,nitrate_retention,0.64,index
+4,C,2026-04-04,soil_team,soil_core,soil_organic_carbon,3.8,percent
+5,D,2026-04-05,marine_team,ocean_color,chlorophyll_signal,0.91,index
+6,E,2026-04-06,biodiversity_team,acoustic_monitoring,biodiversity_signal,0.59,index
