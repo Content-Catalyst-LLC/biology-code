@@ -1,0 +1,5 @@
+site,taxon_A,taxon_B,taxon_C,taxon_D,taxon_E
+forest_site,25,18,11,6,4
+wetland_site,10,24,15,12,7
+marine_site,4,8,22,30,18
+prairie_site,19,16,9,7,5

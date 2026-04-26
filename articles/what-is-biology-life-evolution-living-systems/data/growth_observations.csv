@@ -1,0 +1,13 @@
+time,population,scenario
+0,100,baseline
+2,149,baseline
+4,222,baseline
+6,331,baseline
+8,493,baseline
+10,735,baseline
+0,100,resource_limited
+2,134,resource_limited
+4,179,resource_limited
+6,240,resource_limited
+8,321,resource_limited
+10,430,resource_limited
