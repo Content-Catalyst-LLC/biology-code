@@ -1,0 +1,9 @@
+record_id,biome,habitat_type,realm,region,primary_gradient,dominant_disturbance
+1,tropical_forest,riparian_forest,terrestrial,example_region,precipitation,flood_pulse
+2,temperate_forest,old_growth_patch,terrestrial,example_region,temperature,windthrow
+3,grassland,fire_maintained_prairie,terrestrial,example_region,seasonality,fire
+4,desert,wash_microhabitat,terrestrial,example_region,water_limitation,drought
+5,wetland,emergent_marsh,freshwater,example_region,hydroperiod,flooding
+6,river,coldwater_reach,freshwater,example_region,flow_temperature,flow_variation
+7,reef,coral_framework,marine,example_region,light_depth,thermal_stress
+8,estuary,seagrass_bed,coastal,example_region,salinity,nutrient_loading

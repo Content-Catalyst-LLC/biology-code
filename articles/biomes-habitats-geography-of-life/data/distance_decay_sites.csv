@@ -1,0 +1,11 @@
+site_i,site_j,distance_km,observed_dissimilarity
+A,B,5,0.18
+A,C,12,0.31
+A,D,25,0.52
+A,E,40,0.67
+B,C,9,0.26
+B,D,21,0.48
+B,E,36,0.63
+C,D,15,0.39
+C,E,29,0.57
+D,E,14,0.35
