@@ -1,0 +1,5 @@
+site,habitat_type,fragmentation_pressure,restoration_potential,protection_status
+site_A,forest_patch,0.30,0.62,partial
+site_B,wetland_complex,0.55,0.74,none
+site_C,grassland_remnant,0.70,0.68,none
+site_D,riparian_corridor,0.40,0.80,partial

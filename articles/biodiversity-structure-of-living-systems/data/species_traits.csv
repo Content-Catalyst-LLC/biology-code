@@ -1,0 +1,6 @@
+species,body_size,trophic_level,dispersal,functional_role,phylogenetic_group
+sp1,1.2,2,0.5,herbivore,lineage_A
+sp2,0.8,2,0.7,pollinator,lineage_A
+sp3,2.1,3,0.4,omnivore,lineage_B
+sp4,3.4,4,0.3,predator,lineage_C
+sp5,1.7,3,0.6,decomposer,lineage_B
