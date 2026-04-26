@@ -1,0 +1,6 @@
+step,enzyme,capacity,regulation_factor
+uptake,transporter,88,0.95
+activation,kinase,72,0.80
+conversion,isomerase,95,0.90
+branch_commitment,dehydrogenase,54,0.70
+product_release,exporter,80,0.85
