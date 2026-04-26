@@ -1,0 +1,10 @@
+focal,partner,weight,partner_reliability,interaction_type
+plant_a,pollinator_1,0.50,0.80,pollination
+plant_a,pollinator_2,0.30,0.45,pollination
+plant_a,pollinator_3,0.20,0.70,pollination
+plant_b,pollinator_1,0.20,0.80,pollination
+plant_b,pollinator_4,0.80,0.30,pollination
+coral_a,symbiont_1,0.70,0.62,marine_symbiosis
+coral_a,symbiont_2,0.30,0.40,marine_symbiosis
+root_a,mycorrhiza_1,0.60,0.76,mycorrhizal_exchange
+root_a,mycorrhiza_2,0.40,0.52,mycorrhizal_exchange

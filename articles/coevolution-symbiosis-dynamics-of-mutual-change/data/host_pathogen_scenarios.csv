@@ -1,0 +1,5 @@
+scenario,host_defense,pathogen_escape,feedback,steps
+reference,0.40,0.50,0.03,60
+high_escape,0.35,0.70,0.04,60
+strong_defense,0.70,0.45,0.03,60
+weak_feedback,0.40,0.50,0.01,60

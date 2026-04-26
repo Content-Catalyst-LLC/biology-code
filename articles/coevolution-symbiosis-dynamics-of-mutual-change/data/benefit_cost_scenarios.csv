@@ -1,0 +1,5 @@
+scenario,stress,baseline,benefit_intercept,benefit_stress_slope,cost_intercept,cost_stress_slope,symbiont_load
+low_stress_mutualism,0.10,1.0,0.8,0.3,0.2,0.4,0.75
+moderate_stress_threshold,0.55,1.0,0.8,0.3,0.2,0.4,0.75
+high_stress_breakdown,0.90,1.0,0.8,0.3,0.2,0.4,0.75
+low_partner_load,0.40,1.0,0.8,0.3,0.2,0.4,0.25
