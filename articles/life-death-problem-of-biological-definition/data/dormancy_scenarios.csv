@@ -1,0 +1,5 @@
+scenario,dormant_initial,active_initial,mortality_rate,reactivation_rate,time_end,dt
+baseline_dormancy,1000000,0,0.020,0.050,20,0.01
+low_reactivation,1000000,0,0.020,0.015,20,0.01
+high_mortality,1000000,0,0.080,0.050,20,0.01
+protective_dormancy,1000000,0,0.005,0.030,20,0.01

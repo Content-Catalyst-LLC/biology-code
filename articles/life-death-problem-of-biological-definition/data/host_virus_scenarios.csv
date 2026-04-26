@@ -1,0 +1,5 @@
+scenario,target_initial,infected_initial,virus_initial,beta,delta,production,clearance,time_end,dt
+baseline,1000000,0,1000,0.00000002,0.50,100,2.0,10,0.01
+low_infection,1000000,0,1000,0.000000005,0.50,100,2.0,10,0.01
+high_clearance,1000000,0,1000,0.00000002,0.50,100,5.0,10,0.01
+low_production,1000000,0,1000,0.00000002,0.50,25,2.0,10,0.01

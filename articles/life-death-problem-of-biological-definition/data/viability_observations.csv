@@ -1,0 +1,11 @@
+time_h,live_cells,condition
+0,1000000,stress_condition
+12,740000,stress_condition
+24,550000,stress_condition
+36,380000,stress_condition
+48,250000,stress_condition
+0,1000000,protective_condition
+12,860000,protective_condition
+24,730000,protective_condition
+36,630000,protective_condition
+48,540000,protective_condition
