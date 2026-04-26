@@ -1,0 +1,5 @@
+site,population_variation,lineage_distinctiveness,fossil_record_strength,phylogenetic_resolution,extinction_pressure,adaptive_capacity
+reference_clade,0.72,0.66,0.80,0.78,0.22,0.70
+fragmented_population_complex,0.48,0.74,0.42,0.60,0.66,0.38
+well_sampled_fossil_group,0.51,0.62,0.91,0.70,0.35,0.54
+rapidly_evolving_pathogen,0.88,0.41,0.20,0.82,0.30,0.86

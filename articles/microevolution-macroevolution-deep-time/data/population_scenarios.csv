@@ -1,0 +1,5 @@
+scenario,p0,N,W_AA,W_Aa,W_aa,mu_A_to_a,mu_a_to_A,m,p_migrant,drift,generations
+neutral_largeN,0.50,5000,1.00,1.00,1.00,0.0000,0.0000,0.00,0.50,true,120
+positive_selection,0.20,1000,1.15,1.08,1.00,0.0000,0.0000,0.00,0.50,true,120
+migration_balance,0.90,1000,1.00,1.00,1.00,0.0000,0.0000,0.05,0.20,true,120
+mutation_selection,0.95,2000,1.00,0.98,0.92,0.0010,0.0000,0.00,0.50,false,120

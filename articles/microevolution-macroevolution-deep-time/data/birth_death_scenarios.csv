@@ -1,0 +1,5 @@
+scenario,n_lineages,intervals,lambda_rate,mu_rate,n_iter
+balanced_turnover,20,50,0.10,0.10,500
+positive_diversification,20,50,0.12,0.08,500
+high_extinction,20,50,0.08,0.13,500
+rapid_radiation,20,50,0.18,0.05,500
