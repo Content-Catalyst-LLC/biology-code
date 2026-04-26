@@ -1,0 +1,16 @@
+parameter,value,description
+producers_initial,100,Initial producer state
+herbivores_initial,30,Initial herbivore state
+carnivores_initial,8,Initial carnivore state
+biomass_pool_initial,60,Initial biomass or detrital pool
+producer_growth_rate,0.10,Producer intrinsic growth rate
+producer_carrying_capacity,250,Producer carrying capacity
+producer_herbivore_attack,0.0035,Producer-herbivore interaction coefficient
+producer_to_herbivore_efficiency,0.15,Conversion efficiency from producer consumption
+herbivore_carnivore_attack,0.0020,Herbivore-carnivore interaction coefficient
+herbivore_to_carnivore_efficiency,0.10,Conversion efficiency from herbivore consumption
+herbivore_mortality,0.04,Herbivore mortality rate
+carnivore_mortality,0.03,Carnivore mortality rate
+biomass_loss_rate,0.05,Biomass or detrital pool loss rate
+disturbance_probability,0.04,Disturbance probability per time step
+disturbance_multiplier,0.75,State multiplier after disturbance

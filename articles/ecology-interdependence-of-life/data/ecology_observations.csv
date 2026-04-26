@@ -1,0 +1,11 @@
+observation_id,site,event_date,observer,method,species,count
+1,site_A,2026-04-01,field_team,transect,sp1,15
+2,site_A,2026-04-01,field_team,transect,sp2,9
+3,site_A,2026-04-01,field_team,transect,sp3,1
+4,site_A,2026-04-01,field_team,transect,sp4,4
+5,site_A,2026-04-01,field_team,transect,sp5,3
+6,site_B,2026-04-02,field_team,transect,sp1,6
+7,site_B,2026-04-02,field_team,transect,sp2,12
+8,site_B,2026-04-02,field_team,transect,sp3,5
+9,site_B,2026-04-02,field_team,transect,sp4,1
+10,site_B,2026-04-02,field_team,transect,sp5,4
