@@ -1,0 +1,5 @@
+scenario,initial_count,growth_rate,carrying_capacity,time_end,dt
+control,100000,0.035,1000000,96,0.25
+treated,100000,0.020,1000000,96,0.25
+nutrient_limited,100000,0.015,650000,96,0.25
+contact_inhibited,100000,0.030,450000,96,0.25

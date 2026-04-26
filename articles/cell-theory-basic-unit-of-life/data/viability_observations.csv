@@ -1,0 +1,16 @@
+time_h,viable_cells,condition
+0,1000000,drug_treated
+12,820000,drug_treated
+24,630000,drug_treated
+36,460000,drug_treated
+48,320000,drug_treated
+0,1000000,hypoxic
+12,880000,hypoxic
+24,760000,hypoxic
+36,610000,hypoxic
+48,500000,hypoxic
+0,1000000,control
+12,970000,control
+24,940000,control
+36,910000,control
+48,890000,control

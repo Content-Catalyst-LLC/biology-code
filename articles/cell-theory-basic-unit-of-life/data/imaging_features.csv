@@ -1,0 +1,7 @@
+cell_id,condition,area_um2,perimeter_um,nuclear_area_um2,mean_intensity,roundness
+cell_001,control,820,118,210,1450,0.74
+cell_002,control,790,114,205,1390,0.76
+cell_003,treated,640,106,195,1180,0.68
+cell_004,treated,610,104,188,1110,0.66
+cell_005,hypoxic,700,112,202,1225,0.70
+cell_006,hypoxic,685,110,199,1205,0.69

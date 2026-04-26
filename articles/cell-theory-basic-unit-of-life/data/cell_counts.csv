@@ -1,0 +1,16 @@
+time_h,cells,condition
+0,100000,control
+12,140000,control
+24,200000,control
+36,280000,control
+48,400000,control
+0,100000,treated
+12,126000,treated
+24,158000,treated
+36,198000,treated
+48,249000,treated
+0,100000,nutrient_limited
+12,116000,nutrient_limited
+24,134000,nutrient_limited
+36,156000,nutrient_limited
+48,181000,nutrient_limited

@@ -1,0 +1,6 @@
+scenario,diffusion_coefficient_cm2_s,concentration_inside,concentration_outside,distance_cm
+small_gradient,0.000002,1.00,0.80,0.010
+large_gradient,0.000002,1.00,0.20,0.010
+thick_boundary,0.000002,1.00,0.20,0.020
+high_diffusivity,0.000006,1.00,0.20,0.010
+low_diffusivity,0.0000005,1.00,0.20,0.010

@@ -1,0 +1,7 @@
+condition,membrane_integrity,metabolic_activity,proliferation_capacity,genomic_stability,organelle_function,stress_penalty
+control,0.92,0.88,0.84,0.90,0.86,0.12
+nutrient_limited,0.78,0.55,0.48,0.82,0.70,0.42
+hypoxic,0.70,0.46,0.42,0.76,0.52,0.55
+drug_treated,0.62,0.40,0.30,0.68,0.48,0.68
+membrane_stress,0.38,0.54,0.44,0.74,0.60,0.64
+mitochondrial_stress,0.74,0.36,0.40,0.72,0.32,0.70
