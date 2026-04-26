@@ -1,0 +1,5 @@
+scenario,B0,r,K,m,pulse_day,pulse_size
+degraded_soil,3,0.035,45,0.020,,0
+mulch_added,3,0.045,60,0.018,,0
+inoculated,3,0.045,60,0.018,20,6
+inoculated_plus_habitat_repair,3,0.055,78,0.014,20,8

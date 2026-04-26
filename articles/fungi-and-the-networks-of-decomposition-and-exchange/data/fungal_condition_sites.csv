@@ -1,0 +1,5 @@
+site,mycorrhizal_richness,saprotroph_richness,pathogen_relative_abundance,soil_organic_carbon,aggregate_stability
+reference_forest,38,29,0.08,5.9,0.81
+restored_woodland,24,26,0.14,4.2,0.67
+degraded_field,8,14,0.31,2.1,0.39
+riparian_buffer,19,22,0.18,3.8,0.58
