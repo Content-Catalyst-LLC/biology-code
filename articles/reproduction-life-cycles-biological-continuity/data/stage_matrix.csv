@@ -1,0 +1,4 @@
+stage,juvenile,subadult,adult
+juvenile,0.0,0.0,1.8
+subadult,0.45,0.0,0.0
+adult,0.0,0.70,0.82

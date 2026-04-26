@@ -1,0 +1,5 @@
+stage,stage_order,primary_function,vulnerability_notes
+juvenile,1,growth and early survival,high predation or establishment risk
+subadult,2,maturation and transition,dependent on growth and resource availability
+adult,3,reproduction and persistence,sensitive to adult survival and fecundity
+dormant_propagule,0,buffering and delayed recruitment,depends on environmental trigger and viability

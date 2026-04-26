@@ -1,0 +1,6 @@
+scenario,adult_survival_multiplier,juvenile_survival_multiplier,environmental_stress_increase,notes
+baseline,1.00,1.00,0.00,Baseline synthetic condition
+adult_survival_decline,0.90,1.00,0.00,Adult survival reduced by ten percent
+juvenile_stress,1.00,0.85,0.10,Juvenile survival reduced and stress increased
+restoration_gain,1.05,1.10,-0.08,Improved survival and reduced stress
+high_stress,0.95,0.80,0.18,Combined environmental stress scenario
