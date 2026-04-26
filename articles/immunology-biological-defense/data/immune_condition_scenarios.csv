@@ -1,0 +1,6 @@
+scenario,clearance_capacity,activation_capacity,regulatory_capacity,damage_pressure,stress_load,memory_support
+baseline,0.75,0.70,0.72,0.25,0.25,0.70
+high_pathogen_pressure,0.70,0.75,0.65,0.45,0.40,0.68
+immune_suppression,0.45,0.40,0.70,0.30,0.55,0.50
+hyperinflammatory,0.78,0.90,0.35,0.75,0.50,0.65
+recovery_supported,0.82,0.74,0.84,0.20,0.18,0.78

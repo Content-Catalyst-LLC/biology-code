@@ -1,0 +1,6 @@
+compartment,description,example_measure
+pathogen_load,replicating infectious burden,viral copies or bacterial abundance
+immune_activity,effector immune response intensity,immune-cell activity or cytokine proxy
+damage_burden,inflammatory or tissue-damage burden,tissue injury or inflammation proxy
+regulatory_capacity,immune damping and tolerance capacity,anti-inflammatory regulation proxy
+memory_support,durable memory or trained response proxy,memory cells or protective antibody proxy

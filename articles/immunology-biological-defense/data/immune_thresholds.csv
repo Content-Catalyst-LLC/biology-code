@@ -1,0 +1,5 @@
+threshold_name,value,description
+peak_pathogen_high,200,illustrative high pathogen burden threshold
+peak_pathogen_stressed,100,illustrative stressed pathogen burden threshold
+peak_damage_high,20,illustrative high inflammatory damage threshold
+peak_damage_stressed,10,illustrative stressed inflammatory damage threshold

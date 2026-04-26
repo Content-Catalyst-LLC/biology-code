@@ -1,0 +1,6 @@
+scenario,P0,I0,D0,r,c,alpha,delta,gamma,rho
+weak_clearance,50,2,0,0.45,0.08,0.06,0.18,0.06,0.10
+moderate_clearance,50,2,0,0.45,0.12,0.08,0.18,0.06,0.10
+strong_clearance,50,2,0,0.45,0.18,0.10,0.18,0.06,0.10
+hyperinflammatory,50,2,0,0.45,0.14,0.12,0.18,0.12,0.10
+immune_suppressed,50,2,0,0.45,0.06,0.04,0.24,0.05,0.10
