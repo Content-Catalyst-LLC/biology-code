@@ -1,0 +1,6 @@
+site,replication_fidelity,transcription_signal,rna_processing,translation_support,repair_capacity,regulatory_context,expression_noise_risk
+reference_cell_state,0.86,0.74,0.78,0.80,0.82,0.76,0.18
+stress_response_state,0.70,0.90,0.66,0.68,0.64,0.84,0.36
+repair_deficient_state,0.42,0.58,0.54,0.60,0.28,0.52,0.72
+high_expression_program,0.74,0.92,0.72,0.84,0.66,0.80,0.28
+microbial_adaptation_state,0.68,0.78,0.62,0.70,0.58,0.74,0.40

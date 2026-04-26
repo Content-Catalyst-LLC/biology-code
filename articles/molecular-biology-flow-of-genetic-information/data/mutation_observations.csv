@@ -1,0 +1,5 @@
+experiment,observed_mutations,genomes_surveyed,sites_surveyed,generations
+replication_assay_A,12,1000,100000,1
+replication_assay_B,44,2000,150000,2
+stress_assay_C,93,1500,120000,3
+repair_deficient_D,215,800,90000,2
