@@ -1,0 +1,7 @@
+observation_id,unit,event_date,observer,method,indicator,value,unit_of_measure
+1,A,2026-04-01,field_team,camera_trap,occupancy_detection,1,binary
+2,A,2026-04-02,field_team,line_transect,individual_count,27,count
+3,B,2026-04-04,wetland_team,audio_survey,calling_males,14,count
+4,C,2026-04-05,botany_team,quadrat_survey,seedling_density,3.2,individuals_per_m2
+5,D,2026-04-06,marine_team,reef_transect,juvenile_density,0.8,individuals_per_m2
+6,E,2026-04-07,water_team,grab_sample,nitrate,2.4,mg_per_l
