@@ -1,0 +1,9 @@
+sample,ligand,pathway,activation_score,cell_context
+sample_1,EGF,MAPK,0.82,epithelial
+sample_2,EGF,PI3K,0.61,epithelial
+sample_3,insulin,AKT,0.78,metabolic
+sample_4,TNF,NFkB,0.86,immune
+sample_5,calcium_ion,CaMK,0.72,neuronal
+sample_6,cAMP,PKA,0.69,endocrine
+sample_7,quorum_signal,biofilm,0.74,microbial
+sample_8,auxin,growth,0.81,plant

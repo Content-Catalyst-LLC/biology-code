@@ -1,0 +1,6 @@
+site,receptor_detection,transduction_integrity,second_messenger_capacity,feedback_control,response_specificity,context_integration,noise_risk
+reference_cell_state,0.84,0.80,0.78,0.74,0.76,0.72,0.20
+feedback_deficient_state,0.72,0.68,0.70,0.32,0.48,0.52,0.64
+immune_activation_state,0.88,0.82,0.86,0.70,0.80,0.78,0.28
+microbial_quorum_state,0.76,0.70,0.62,0.58,0.66,0.74,0.34
+plant_stress_state,0.80,0.76,0.68,0.64,0.72,0.84,0.30
