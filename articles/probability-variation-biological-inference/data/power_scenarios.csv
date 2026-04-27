@@ -1,0 +1,6 @@
+scenario,sample_size_per_group,effect_size,sigma,alpha,n_sim,seed
+small_n,5,1.0,1.5,0.05,3000,101
+moderate_n,20,1.0,1.5,0.05,3000,102
+large_n,80,1.0,1.5,0.05,3000,103
+small_effect,40,0.4,1.5,0.05,3000,104
+large_effect,40,1.4,1.5,0.05,3000,105

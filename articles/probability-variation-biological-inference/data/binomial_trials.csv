@@ -1,0 +1,6 @@
+experiment,successes,trials,context
+germination_assay,68,100,seed response
+infection_challenge,37,80,host infection
+diagnostic_assay,92,120,positive detection
+restoration_survival,41,75,seedling survival
+marine_detection,24,60,environmental detection

@@ -1,0 +1,17 @@
+sample_id,group,value
+s001,control,10.2
+s002,control,11.1
+s003,control,9.8
+s004,control,10.5
+s005,control,10.9
+s006,control,11.0
+s007,control,9.9
+s008,control,10.4
+s009,treated,12.1
+s010,treated,11.7
+s011,treated,12.4
+s012,treated,11.9
+s013,treated,12.0
+s014,treated,12.6
+s015,treated,11.8
+s016,treated,12.3

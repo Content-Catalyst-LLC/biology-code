@@ -1,0 +1,5 @@
+scenario,alpha_prior,beta_prior,successes,trials
+uninformative_prior,1,1,68,100
+skeptical_prior,2,8,68,100
+optimistic_prior,8,2,68,100
+field_prior,12,18,41,75
