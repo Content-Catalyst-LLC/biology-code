@@ -1,0 +1,8 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,validate_parameters,logistic_parameters.csv;compartment_parameters.csv;parameter_rules.csv,python/01_validate_parameters.py,outputs/tables/parameter_validation_report.csv,Validate model parameter ranges and required fields
+2,run_logistic_model,logistic_parameters.csv,python/02_logistic_growth_model.py,outputs/simulations/logistic_growth_outputs.csv,Run deterministic logistic growth scenarios
+3,run_two_compartment_model,compartment_parameters.csv,python/03_two_compartment_model.py,outputs/simulations/two_compartment_outputs.csv,Run two-compartment biological model scenarios
+4,run_parameter_sweep,logistic_parameters.csv;compartment_parameters.csv,python/04_parameter_sweep.py,outputs/tables/parameter_sweep_summary.csv,Summarize final outputs across scenarios
+5,sensitivity_summary,parameter_sweep_summary.csv,python/05_sensitivity_summary.py,outputs/tables/sensitivity_summary.csv,Estimate simple scenario-level sensitivity
+6,workflow_manifest,workflow_steps.csv,python/06_workflow_manifest.py,outputs/tables/workflow_manifest.csv,Record workflow artifacts and checksums
+7,generate_report,parameter_sweep_summary.csv;sensitivity_summary.csv,python/07_generate_report.py,outputs/reports/modeling_report.md,Generate reproducible text report

@@ -1,0 +1,5 @@
+scenario,initial_population,growth_rate,carrying_capacity,dt,steps,unit_time,unit_population
+low_growth,25,0.15,1000,0.1,200,days,individuals
+baseline,25,0.35,1000,0.1,200,days,individuals
+high_growth,25,0.55,1000,0.1,200,days,individuals
+high_capacity,25,0.35,1500,0.1,200,days,individuals

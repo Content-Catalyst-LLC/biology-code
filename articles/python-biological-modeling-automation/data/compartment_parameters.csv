@@ -1,0 +1,5 @@
+scenario,initial_a,initial_b,k_ab,k_ba,k_clear,dt,steps,unit_time,unit_amount
+baseline_exchange,100,0,0.18,0.07,0.03,0.1,150,hours,relative_amount
+rapid_exchange,100,0,0.32,0.12,0.03,0.1,150,hours,relative_amount
+slow_clearance,100,0,0.18,0.07,0.01,0.1,150,hours,relative_amount
+high_clearance,100,0,0.18,0.07,0.08,0.1,150,hours,relative_amount

@@ -1,0 +1,11 @@
+parameter,lower_bound,upper_bound,unit,description
+initial_population,0,1000000,individuals,Initial population size
+growth_rate,0,5,per_day,Intrinsic growth rate
+carrying_capacity,1,10000000,individuals,Environmental carrying capacity
+dt,0.0001,10,time_step,Simulation time step
+steps,1,100000,count,Number of simulation steps
+initial_a,0,1000000,relative_amount,Initial amount in compartment A
+initial_b,0,1000000,relative_amount,Initial amount in compartment B
+k_ab,0,10,per_hour,Transfer rate from compartment A to B
+k_ba,0,10,per_hour,Transfer rate from compartment B to A
+k_clear,0,10,per_hour,Clearance rate from compartment A
