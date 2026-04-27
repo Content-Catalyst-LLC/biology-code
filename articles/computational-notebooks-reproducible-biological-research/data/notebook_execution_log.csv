@@ -1,0 +1,2 @@
+notebook_name,kernel,clean_run,failed_cells,executed_cells,notes
+computational_notebooks_biological_research_workflow.ipynb,python3,true,0,4,Minimal scaffold designed for reproducible demonstration

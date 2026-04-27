@@ -1,0 +1,9 @@
+sample_id,species,tissue_or_environment,treatment,batch,collection_site,collection_date,response_value
+BIO001,Danio rerio,embryo,control,B1,lab_a,2026-01-10,1.20
+BIO002,Danio rerio,embryo,control,B1,lab_a,2026-01-10,1.40
+BIO003,Danio rerio,embryo,exposed,B2,lab_a,2026-01-11,2.10
+BIO004,Danio rerio,embryo,exposed,B2,lab_a,2026-01-11,2.40
+BIO005,Arabidopsis thaliana,leaf,control,B3,greenhouse_1,2026-02-03,0.80
+BIO006,Arabidopsis thaliana,leaf,exposed,B3,greenhouse_1,2026-02-03,1.30
+BIO007,Mytilus edulis,gill,control,B4,marine_site_1,2026-03-15,1.10
+BIO008,Mytilus edulis,gill,exposed,B4,marine_site_1,2026-03-15,1.90

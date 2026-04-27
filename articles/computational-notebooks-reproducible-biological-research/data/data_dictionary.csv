@@ -1,0 +1,9 @@
+column_name,description,unit_or_type,required
+sample_id,Unique biological sample identifier,text,yes
+species,Scientific species name,text,yes
+tissue_or_environment,Tissue type or environmental matrix,text,yes
+treatment,Experimental or observational group,text,yes
+batch,Laboratory analytical batch or processing group,text,yes
+collection_site,Collection site or laboratory setting,text,yes
+collection_date,Date of sample collection,YYYY-MM-DD,yes
+response_value,Synthetic biological response value,arbitrary units,yes

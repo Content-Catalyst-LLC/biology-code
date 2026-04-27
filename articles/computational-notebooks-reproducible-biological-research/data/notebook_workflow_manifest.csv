@@ -1,0 +1,7 @@
+step_id,step_name,notebook_section,input_artifact,output_artifact,description
+1,load_metadata,Data loading,biological_sample_metadata.csv,outputs/tables/loaded_sample_count.csv,Load biological metadata from CSV
+2,validate_metadata,Quality control,biological_sample_metadata.csv,outputs/tables/metadata_validation.csv,Check required fields and unique identifiers
+3,summarize_groups,Exploratory summary,biological_sample_metadata.csv,outputs/tables/group_summary.csv,Summarize samples by treatment species and batch
+4,record_provenance,Provenance,biological_sample_metadata.csv;data_dictionary.csv,outputs/manifests/provenance_manifest.csv,Record checksums for input artifacts
+5,execution_check,Notebook execution,notebooks/computational_notebooks_biological_research_workflow.ipynb,outputs/tables/notebook_execution_check.csv,Inspect notebook scaffold metadata
+6,report,Reporting,outputs/tables/group_summary.csv;outputs/manifests/provenance_manifest.csv,outputs/reports/reproducibility_report.md,Generate reproducibility report
