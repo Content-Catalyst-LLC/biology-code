@@ -1,0 +1,9 @@
+source,target,weight,interaction_type,module
+phytoplankton,zooplankton,0.9,consumed_by,marine_food_web
+zooplankton,small_fish,0.8,consumed_by,marine_food_web
+small_fish,large_fish,0.7,consumed_by,marine_food_web
+large_fish,seal,0.5,consumed_by,marine_food_web
+detritus,microbes,0.9,consumed_by,decomposition
+microbes,zooplankton,0.4,consumed_by,microbial_loop
+macroalgae,herbivore,0.6,consumed_by,coastal_food_web
+herbivore,predator,0.5,consumed_by,coastal_food_web

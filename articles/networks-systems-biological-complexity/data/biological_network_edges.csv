@@ -1,0 +1,13 @@
+source,target,weight,interaction_type,module
+gene_A,gene_B,1.0,activation,regulation
+gene_A,gene_C,0.8,activation,regulation
+gene_B,gene_D,0.7,repression,regulation
+gene_C,gene_D,1.2,activation,regulation
+gene_D,gene_E,0.9,signal,metabolism
+gene_E,gene_F,1.1,conversion,metabolism
+gene_F,gene_G,0.6,signal,signaling
+gene_G,gene_H,0.5,activation,signaling
+gene_H,gene_I,0.7,activation,signaling
+gene_I,gene_J,1.0,activation,signaling
+gene_C,gene_G,0.4,cross_module,bridge
+gene_F,gene_J,0.3,cross_module,bridge

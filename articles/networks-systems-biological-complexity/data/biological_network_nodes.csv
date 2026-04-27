@@ -1,0 +1,11 @@
+node,module,node_type,description
+gene_A,regulation,gene,synthetic regulatory source
+gene_B,regulation,gene,synthetic regulatory target
+gene_C,regulation,gene,synthetic regulatory branch
+gene_D,regulation,gene,synthetic convergence node
+gene_E,metabolism,metabolite,synthetic metabolic intermediate
+gene_F,metabolism,enzyme,synthetic metabolic regulator
+gene_G,signaling,protein,synthetic signaling node
+gene_H,signaling,protein,synthetic signal relay
+gene_I,signaling,protein,synthetic signal relay
+gene_J,signaling,gene,synthetic response node

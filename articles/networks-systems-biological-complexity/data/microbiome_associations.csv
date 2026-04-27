@@ -1,0 +1,9 @@
+taxon_a,taxon_b,association_strength,association_type,module
+taxon_01,taxon_02,0.72,positive,fermentation
+taxon_01,taxon_03,-0.31,negative,fermentation
+taxon_02,taxon_04,0.44,positive,fermentation
+taxon_03,taxon_05,0.60,positive,stress_response
+taxon_04,taxon_06,-0.40,negative,stress_response
+taxon_05,taxon_06,0.58,positive,stress_response
+taxon_06,taxon_07,0.35,positive,nutrient_cycle
+taxon_07,taxon_08,0.51,positive,nutrient_cycle
