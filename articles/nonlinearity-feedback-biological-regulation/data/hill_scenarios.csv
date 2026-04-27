@@ -1,0 +1,5 @@
+scenario,k_half,hill_coefficient
+linear_like,40,1
+moderate_cooperativity,40,2
+sharp_threshold,40,4
+ultrasensitive,40,8

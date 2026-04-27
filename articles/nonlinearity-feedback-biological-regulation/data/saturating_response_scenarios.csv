@@ -1,0 +1,5 @@
+scenario,vmax,k_half
+baseline,1.0,20
+high_capacity,1.5,20
+low_affinity,1.0,50
+high_affinity,1.0,8

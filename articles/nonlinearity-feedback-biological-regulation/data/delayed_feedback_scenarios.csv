@@ -1,0 +1,5 @@
+scenario,x0,production_rate,feedback_strength,delay,dt,t_end
+short_delay,1.0,1.0,0.8,0.1,0.01,80
+moderate_delay,1.0,1.0,0.8,1.0,0.01,80
+long_delay,1.0,1.0,0.8,4.0,0.01,80
+very_long_delay,1.0,1.0,0.8,8.0,0.01,80
