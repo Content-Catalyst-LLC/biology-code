@@ -1,0 +1,4 @@
+sequence_id,organism,condition,batch,qc_flag,notes
+sample_01,model_species,control,batch_01,pass,Synthetic sequence record
+sample_02,model_species,treated,batch_01,review,Contains ambiguous bases
+sample_03,model_species,treated,batch_02,pass,Synthetic sequence record

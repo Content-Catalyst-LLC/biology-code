@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,logistic_growth_simulation,simulation_parameters.csv,python/01_logistic_growth_simulation.py,outputs/simulations/logistic_growth_outputs.csv,Run deterministic simulation scenarios
+2,stochastic_population_simulation,simulation_parameters.csv,python/02_stochastic_population_simulation.py,outputs/simulations/stochastic_population_outputs.csv,Run stochastic simulation scaffold
+3,sequence_summary,sequences.fasta,python/03_sequence_summary.py,outputs/tables/sequence_summary.csv,Summarize FASTA records
+4,kmer_counting,sequences.fasta,python/04_kmer_counting.py,outputs/tables/kmer_counts.csv,Count DNA k-mers
+5,metadata_validation,sequence_metadata.csv,python/05_metadata_validation.py,outputs/tables/metadata_validation_report.csv,Validate sequence metadata
+6,workflow_manifest,workflow_steps.csv,python/06_workflow_manifest.py,outputs/tables/workflow_manifest.csv,Record provenance and checksums
