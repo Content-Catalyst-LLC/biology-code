@@ -1,0 +1,9 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,sir_model,model_scenarios.csv,python/01_sir_model.py,outputs/simulations/sir_outputs.csv,Run SIR simulations across scenarios
+2,seir_model,model_scenarios.csv,python/02_seir_model.py,outputs/simulations/seir_outputs.csv,Run SEIR simulations across scenarios
+3,rt_proxy,incidence.csv,python/03_rt_proxy.py,outputs/tables/rt_proxy.csv,Estimate simple growth-rate Rt proxy
+4,branching_process,branching_parameters.csv,python/04_branching_process.py,outputs/simulations/branching_process.csv,Simulate stochastic generational spread
+5,reporting_delay_adjustment,incidence.csv,python/05_reporting_delay_adjustment.py,outputs/tables/reporting_delay_adjustment.csv,Adjust reported cases by completeness
+6,validation_metrics,forecast_validation.csv,python/06_validation_metrics.py,outputs/tables/validation_metrics.csv,Calculate forecast validation metrics
+7,workflow_manifest,workflow_steps.csv,python/07_workflow_manifest.py,outputs/tables/workflow_manifest.csv,Record workflow artifacts and checksums
+8,generate_report,sir_summary.csv;seir_summary.csv;validation_metrics.csv,python/08_generate_report.py,outputs/reports/epidemiology_modeling_report.md,Generate reproducible modeling report

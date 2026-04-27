@@ -1,0 +1,4 @@
+scenario,initial_cases,reproduction_mean,generations,random_seed
+baseline_branching,5,1.30,10,7
+subcritical_branching,5,0.80,10,11
+supercritical_branching,5,1.80,10,19

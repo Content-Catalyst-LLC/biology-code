@@ -1,0 +1,5 @@
+scenario,population,initial_susceptible,initial_exposed,initial_infected,initial_recovered,beta,sigma,gamma,dt,steps
+baseline,10000,9970,20,10,0,0.32,0.20,0.10,0.25,240
+reduced_transmission,10000,9970,20,10,0,0.22,0.20,0.10,0.25,240
+faster_recovery,10000,9970,20,10,0,0.32,0.20,0.16,0.25,240
+high_transmission,10000,9970,20,10,0,0.45,0.20,0.10,0.25,240
