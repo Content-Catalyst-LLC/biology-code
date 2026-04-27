@@ -1,0 +1,6 @@
+[package]
+name = "evolutionary_medicine_scenario_ranker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

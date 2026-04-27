@@ -1,0 +1,8 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,resistance_selection,resistance_scenarios.csv,python/01_antimicrobial_resistance_selection.py,outputs/tables/resistance_selection_summary.csv,Simulate resistance under selection
+2,mismatch_risk,mismatch_exposures.csv,python/02_mismatch_risk_scores.py,outputs/tables/mismatch_risk_scores.csv,Calculate conceptual mismatch scores
+3,life_history_tradeoffs,life_history_allocation.csv,python/03_life_history_tradeoffs.py,outputs/tables/life_history_tradeoffs.csv,Summarize allocation trade-offs
+4,somatic_evolution,somatic_evolution_scenarios.csv,python/04_somatic_evolution.py,outputs/tables/somatic_evolution_summary.csv,Simulate clonal expansion
+5,defense_thresholds,defense_thresholds.csv,python/05_defense_thresholds.py,outputs/tables/defense_threshold_summary.csv,Evaluate defense activation thresholds
+6,provenance,workflow_manifest.csv,python/06_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+7,report,resistance_selection_summary.csv;mismatch_risk_scores.csv;life_history_tradeoffs.csv,python/07_generate_evolutionary_medicine_report.py,outputs/reports/evolutionary_medicine_report.md,Generate report

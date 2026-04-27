@@ -1,0 +1,6 @@
+scenario,growth,reproduction,maintenance,immune_defense
+high_growth,0.45,0.20,0.20,0.15
+high_reproduction,0.20,0.45,0.20,0.15
+high_maintenance,0.20,0.15,0.45,0.20
+high_defense,0.18,0.17,0.25,0.40
+balanced,0.25,0.25,0.25,0.25

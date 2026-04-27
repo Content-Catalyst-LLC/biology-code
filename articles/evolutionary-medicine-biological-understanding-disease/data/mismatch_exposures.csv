@@ -1,0 +1,7 @@
+trait_system,current_exposure,adapted_exposure_reference,evidence_confidence,biological_domain
+energy_storage,0.90,0.45,0.70,metabolism
+circadian_regulation,0.82,0.35,0.65,neuroendocrine
+immune_calibration,0.25,0.70,0.55,immunology
+visual_development,0.88,0.40,0.60,development
+stress_response,0.78,0.42,0.50,physiology
+physical_activity,0.20,0.75,0.65,musculoskeletal_metabolic

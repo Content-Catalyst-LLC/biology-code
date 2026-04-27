@@ -1,0 +1,5 @@
+scenario,initial_frequency,selection_advantage,fitness_cost,steps,description
+low_selection,0.02,0.05,0.04,30,Low antimicrobial selection with resistance cost
+moderate_selection,0.02,0.12,0.04,30,Moderate antimicrobial selection
+high_selection,0.02,0.22,0.04,30,High antimicrobial selection
+high_cost,0.02,0.12,0.10,30,Moderate selection with higher resistance cost

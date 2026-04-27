@@ -1,0 +1,5 @@
+clone_id,initial_clone_size,growth_rate,time_steps,selection_context
+clone_A,100,0.05,30,low_growth_advantage
+clone_B,100,0.12,30,moderate_growth_advantage
+clone_C,100,0.20,30,high_growth_advantage
+treatment_resistant_clone,10,0.18,30,post_treatment_selection
