@@ -1,0 +1,7 @@
+project,requires_irb,requires_animal_review,requires_biosafety_review,requires_community_consultation,requires_data_governance,requires_ecological_assessment
+clinical_genomics_study,true,false,false,false,true,false
+animal_model_experiment,false,true,true,false,false,false
+environmental_biosensor_release,false,false,true,true,true,true
+biodiversity_data_platform,false,false,false,true,true,true
+synthetic_biology_chassis,false,false,true,false,true,false
+public_health_surveillance,true,false,false,true,true,false

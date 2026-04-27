@@ -1,0 +1,6 @@
+project,exposure_probability,harm_magnitude,uncertainty,reversibility,monitoring_capacity
+contained_lab,0.05,0.20,0.20,0.90,0.85
+field_biosensor,0.35,0.40,0.45,0.55,0.65
+engineered_microbe_release,0.75,0.70,0.80,0.20,0.45
+habitat_restoration,0.20,0.25,0.35,0.70,0.60
+gene_drive_release,0.90,0.85,0.90,0.10,0.40

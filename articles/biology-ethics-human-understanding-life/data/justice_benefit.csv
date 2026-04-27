@@ -1,0 +1,6 @@
+intervention,expected_benefit,inequality_penalty,primary_beneficiary,access_constraint
+gene_therapy,0.88,0.65,specialized_clinical_patients,high_cost
+waterborne_pathogen_surveillance,0.76,0.25,community_public_health,infrastructure
+crop_biodiversity_program,0.70,0.20,smallholder_farmers,seed_system_access
+urban_air_quality_biomonitoring,0.82,0.45,urban_residents,policy_followthrough
+genomic_medicine_platform,0.84,0.55,clinical_patients,data_access_and_cost

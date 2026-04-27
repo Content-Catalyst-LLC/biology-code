@@ -1,0 +1,6 @@
+study,elements_required,elements_understood,participant_group,plain_language_available,withdrawal_explained
+biobank,8,5,general_patients,true,true
+clinical_trial,10,8,patients_with_condition,true,true
+genomics_platform,9,6,community_cohort,false,true
+public_health_surveillance,7,4,regional_population,false,false
+environmental_biosensor_release,6,3,affected_community,false,false

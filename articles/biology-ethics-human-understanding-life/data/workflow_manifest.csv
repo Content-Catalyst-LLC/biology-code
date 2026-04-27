@@ -1,0 +1,8 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,ethical_review_scores,biology_ethics_projects.csv,python/01_ethical_review_scores.py,outputs/tables/ethical_review_scores.csv,Calculate transparent ethical-review scores
+2,consent_completeness,consent_records.csv,python/02_consent_completeness.py,outputs/tables/consent_completeness.csv,Calculate consent-completeness indicators
+3,justice_adjusted_benefit,justice_benefit.csv,python/03_justice_adjusted_benefit.py,outputs/tables/justice_adjusted_benefit.csv,Calculate justice-adjusted benefit
+4,ecological_risk,ecological_risk.csv,python/04_ecological_risk.py,outputs/tables/ecological_risk_scores.csv,Calculate ecological risk and reversibility-adjusted risk
+5,governance_flags,governance_requirements.csv,python/05_governance_flags.py,outputs/tables/governance_flags.csv,Summarize governance requirements
+6,provenance,workflow_manifest.csv,python/06_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+7,report,ethical_review_scores.csv;consent_completeness.csv;justice_adjusted_benefit.csv,python/07_generate_biology_ethics_report.py,outputs/reports/biology_ethics_report.md,Generate report
