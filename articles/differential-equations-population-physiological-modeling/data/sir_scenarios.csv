@@ -1,0 +1,5 @@
+scenario,beta,gamma,S0,I0,R0,dt,t_end
+baseline,0.35,0.10,0.99,0.01,0.00,0.05,120
+lower_transmission,0.18,0.10,0.99,0.01,0.00,0.05,120
+faster_recovery,0.35,0.20,0.99,0.01,0.00,0.05,120
+high_transmission,0.55,0.10,0.99,0.01,0.00,0.05,120

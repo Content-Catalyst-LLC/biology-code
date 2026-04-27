@@ -1,0 +1,5 @@
+scenario,C0,elimination_rate,dt,t_end
+baseline,20.0,0.12,0.05,48
+slow_clearance,20.0,0.06,0.05,48
+fast_clearance,20.0,0.22,0.05,48
+low_initial,8.0,0.12,0.05,48
