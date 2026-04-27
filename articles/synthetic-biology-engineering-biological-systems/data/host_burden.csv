@@ -1,0 +1,7 @@
+design_id,chassis,growth_rate_engineered,growth_rate_control,medium,temperature_c
+D001,E_coli,0.82,1.00,LB,37
+D002,E_coli,0.91,1.00,LB,37
+D003,S_cerevisiae,0.63,0.95,YPD,30
+D004,S_cerevisiae,0.77,0.95,YPD,30
+D005,B_subtilis,0.70,0.92,LB,37
+D006,cell_free_extract,0.00,0.00,cell_free,25

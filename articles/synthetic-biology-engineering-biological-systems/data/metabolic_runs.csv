@@ -1,0 +1,5 @@
+run_id,design_id,substrate_consumed_g_l,product_formed_g_l,product_name,fermentation_hours
+R001,D003,10.0,2.4,synthetic_product_A,24
+R002,D003,10.0,3.1,synthetic_product_A,36
+R003,D004,12.0,3.0,synthetic_product_A,24
+R004,D004,12.0,3.8,synthetic_product_A,36

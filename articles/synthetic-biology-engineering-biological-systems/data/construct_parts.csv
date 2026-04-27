@@ -1,0 +1,11 @@
+design_id,part_id,part_type,description
+D001,P001,promoter,Inducible promoter placeholder
+D001,R001,ribosome_binding_site,Translation initiation placeholder
+D001,C001,coding_sequence,Reporter coding sequence placeholder
+D001,T001,terminator,Transcription terminator placeholder
+D003,P002,promoter,Pathway promoter placeholder
+D003,C002,coding_sequence,Enzyme module placeholder
+D003,C003,coding_sequence,Transport module placeholder
+D005,P003,promoter,Circuit promoter placeholder
+D005,C004,coding_sequence,Regulatory protein placeholder
+D006,C005,cell_free_template,Cell-free expression template placeholder

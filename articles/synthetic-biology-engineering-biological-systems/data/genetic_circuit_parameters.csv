@@ -1,0 +1,4 @@
+scenario,initial_x,production_rate,input_strength,degradation_rate,dt,steps
+low_input,0.05,1.20,0.25,0.40,0.10,80
+medium_input,0.05,1.20,0.55,0.40,0.10,80
+high_input,0.05,1.20,0.90,0.40,0.10,80

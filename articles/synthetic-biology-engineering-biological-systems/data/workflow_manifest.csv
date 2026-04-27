@@ -1,0 +1,8 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,dbtl_scoring,synthetic_biology_designs.csv,python/01_design_build_test_learn.py,outputs/tables/dbtl_engineering_scores.csv,Score synthetic biology designs
+2,biosensor_snr,biosensor_measurements.csv,python/02_biosensor_signal_to_noise.py,outputs/tables/biosensor_signal_to_noise.csv,Calculate biosensor signal-to-noise
+3,host_burden,host_burden.csv,python/03_host_burden.py,outputs/tables/host_burden_scores.csv,Calculate host burden
+4,metabolic_yield,metabolic_runs.csv,python/04_metabolic_yield.py,outputs/tables/metabolic_yield.csv,Calculate product yield
+5,circuit_dynamics,genetic_circuit_parameters.csv,python/05_genetic_circuit_dynamics.py,outputs/tables/genetic_circuit_summary.csv,Simulate simple circuit dynamics
+6,provenance,workflow_manifest.csv,python/06_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+7,report,dbtl_engineering_scores.csv;biosensor_signal_to_noise.csv;host_burden_scores.csv,python/07_generate_synthetic_biology_report.py,outputs/reports/synthetic_biology_report.md,Generate report

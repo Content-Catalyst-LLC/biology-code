@@ -1,0 +1,7 @@
+design_id,construct_type,chassis,output_signal,host_burden,genetic_stability,measurement_uncertainty,dbtl_cycle
+D001,biosensor,E_coli,0.82,0.18,0.72,0.12,1
+D002,biosensor,E_coli,0.68,0.10,0.84,0.10,1
+D003,metabolic_pathway,S_cerevisiae,0.74,0.35,0.55,0.18,1
+D004,metabolic_pathway,S_cerevisiae,0.61,0.22,0.70,0.14,2
+D005,genetic_circuit,B_subtilis,0.77,0.28,0.66,0.16,2
+D006,cell_free_sensor,cell_free_extract,0.88,0.00,0.80,0.09,2

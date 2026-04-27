@@ -1,0 +1,6 @@
+design_id,mean_signal,mean_background,background_sd,input_condition,measurement_unit
+D001,1250.0,220.0,65.0,induced,relative_fluorescence
+D002,980.0,210.0,80.0,induced,relative_fluorescence
+D003,1430.0,410.0,120.0,induced,relative_fluorescence
+D005,1100.0,260.0,90.0,induced,relative_fluorescence
+D006,1560.0,300.0,75.0,induced,relative_fluorescence
