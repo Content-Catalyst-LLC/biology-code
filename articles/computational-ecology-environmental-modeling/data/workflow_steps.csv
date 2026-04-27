@@ -1,0 +1,8 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,habitat_suitability,sites.csv,python/01_habitat_suitability.py,outputs/tables/habitat_suitability.csv,Estimate suitability from environmental covariates
+2,patch_occupancy,scenarios.csv,python/02_patch_occupancy.py,outputs/simulations/patch_occupancy.csv,Simulate occupancy dynamics across scenarios
+3,environmental_stress_scenarios,scenarios.csv,python/03_environmental_stress_scenarios.py,outputs/tables/environmental_stress.csv,Compare climate stress and restoration scenarios
+4,runoff_scaffold,environmental_grid.csv,python/04_runoff_scaffold.py,outputs/tables/runoff_scaffold.csv,Calculate simplified runoff by grid cell
+5,validation_metrics,validation_observations.csv,python/05_validation_metrics.py,outputs/tables/validation_metrics.csv,Calculate model validation metrics
+6,workflow_manifest,workflow_steps.csv,python/06_workflow_manifest.py,outputs/tables/workflow_manifest.csv,Record workflow artifacts and checksums
+7,generate_report,habitat_suitability.csv;environmental_stress.csv;validation_metrics.csv,python/07_generate_report.py,outputs/reports/computational_ecology_report.md,Generate reproducible modeling report

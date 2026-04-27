@@ -1,0 +1,6 @@
+scenario,temperature_anomaly,water_deficit,disturbance,habitat_gain,colonization,extinction,initial_occupancy
+baseline,0.0,0.15,0.25,0.00,0.12,0.08,0.42
+warming,2.5,0.25,0.35,0.00,0.10,0.12,0.42
+drying,1.5,0.45,0.40,0.00,0.08,0.16,0.42
+restoration,1.5,0.22,0.18,0.20,0.18,0.06,0.42
+fragmentation,1.0,0.30,0.55,0.00,0.05,0.18,0.42

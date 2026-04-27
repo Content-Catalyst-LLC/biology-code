@@ -1,0 +1,6 @@
+[package]
+name = "computational_ecology_environmental_modeling_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

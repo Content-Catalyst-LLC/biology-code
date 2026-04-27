@@ -1,0 +1,7 @@
+cell_id,x,y,precipitation_mm,infiltration_fraction,runoff_coefficient,land_cover,habitat_quality
+cell_01,0,0,42,0.62,0.30,forest,0.82
+cell_02,1,0,55,0.48,0.42,grassland,0.64
+cell_03,0,1,38,0.72,0.22,wetland,0.88
+cell_04,1,1,61,0.35,0.58,urban_edge,0.31
+cell_05,2,1,47,0.55,0.36,shrubland,0.52
+cell_06,2,2,33,0.41,0.63,degraded,0.21

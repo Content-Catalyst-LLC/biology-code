@@ -1,0 +1,7 @@
+site_id,x,y,temperature_c,precipitation_mm,habitat_quality,disturbance,observed_presence,observed_abundance
+site_A,0,0,16.2,820,0.82,0.18,1,18
+site_B,1,0,22.5,640,0.64,0.35,1,12
+site_C,0,1,28.1,410,0.31,0.72,0,4
+site_D,1,1,19.4,910,0.76,0.21,1,15
+site_E,2,1,24.8,560,0.48,0.46,1,9
+site_F,2,2,30.2,380,0.22,0.81,0,2
