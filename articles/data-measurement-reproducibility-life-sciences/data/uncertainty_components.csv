@@ -1,0 +1,5 @@
+component,standard_uncertainty,unit,notes
+instrument_repeatability,0.08,mmol/L,Synthetic repeatability component
+calibration,0.05,mmol/L,Synthetic calibration component
+sample_preparation,0.11,mmol/L,Synthetic preparation component
+operator_variation,0.06,mmol/L,Synthetic operator component

@@ -1,0 +1,13 @@
+sample_id,organism,tissue,measurement_value,unit,instrument_id,batch_id,qc_flag
+sample_01,model_species,liver,10.2,mmol/L,instrument_A,batch_01,pass
+sample_02,model_species,liver,10.5,mmol/L,instrument_A,batch_01,pass
+sample_03,model_species,liver,10.1,mmol/L,instrument_A,batch_01,pass
+sample_04,model_species,liver,10.4,mmol/L,instrument_A,batch_01,pass
+sample_05,model_species,liver,10.8,mmol/L,instrument_A,batch_02,pass
+sample_06,model_species,liver,11.0,mmol/L,instrument_A,batch_02,review
+sample_07,model_species,liver,10.7,mmol/L,instrument_A,batch_02,pass
+sample_08,model_species,liver,10.6,mmol/L,instrument_A,batch_02,pass
+sample_09,model_species,liver,10.3,mmol/L,instrument_B,batch_03,pass
+sample_10,model_species,liver,,mmol/L,instrument_B,batch_03,fail
+sample_11,model_species,liver,10.9,mmol/L,instrument_B,batch_03,pass
+sample_12,model_species,liver,10.4,mmol/L,instrument_B,batch_03,pass

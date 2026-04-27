@@ -1,0 +1,9 @@
+column_name,description,unit,required,allowed_values
+sample_id,Unique sample identifier,,true,
+organism,Organism or biological source,,true,
+tissue,Tissue or biological material,,true,
+measurement_value,Measured biological quantity,mmol/L,true,
+unit,Measurement unit,,true,mmol/L
+instrument_id,Instrument identifier,,true,
+batch_id,Analytical batch identifier,,true,
+qc_flag,Quality-control status,,true,pass|review|fail

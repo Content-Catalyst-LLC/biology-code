@@ -1,0 +1,5 @@
+step_id,input_artifact,operation,output_artifact,responsible_role,notes
+1,raw_measurements.csv,quality_control,clean_measurements.csv,analysis_team,Apply predefined QC flags
+2,clean_measurements.csv,statistical_summary,summary_table.csv,analysis_team,Generate measurement quality summary
+3,uncertainty_components.csv,uncertainty_budget,uncertainty_summary.csv,analysis_team,Combine uncertainty components
+4,summary_table.csv,report_generation,reproducibility_report.md,analysis_team,Generate reproducibility report

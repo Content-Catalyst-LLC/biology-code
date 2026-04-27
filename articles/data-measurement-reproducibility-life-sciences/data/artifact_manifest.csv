@@ -1,0 +1,6 @@
+artifact_name,artifact_role,owner,status,license,notes
+measurements.csv,input,lab_team,archived,CC-BY-4.0-compatible-example,Synthetic measurement table
+data_dictionary.csv,metadata,analysis_team,versioned,CC-BY-4.0-compatible-example,Synthetic data dictionary
+uncertainty_components.csv,input,analysis_team,versioned,CC-BY-4.0-compatible-example,Synthetic uncertainty budget input
+provenance_steps.csv,provenance,analysis_team,versioned,CC-BY-4.0-compatible-example,Synthetic workflow provenance
+summary_table.csv,output,analysis_team,generated,CC-BY-4.0-compatible-example,Derived output
