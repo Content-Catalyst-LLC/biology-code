@@ -1,0 +1,10 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,sequence_summary,sequences.fasta,python/01_sequence_summary.py,outputs/tables/sequence_summary.csv,Summarize sequence length GC content and ambiguous bases
+2,kmer_counting,sequences.fasta,python/02_kmer_counting.py,outputs/tables/kmer_counts.csv,Count valid DNA k-mers
+3,orf_detection,sequences.fasta,python/03_orf_detection.py,outputs/tables/orf_summary.csv,Find simple forward-strand ORFs
+4,translation_scaffold,sequences.fasta,python/04_translation_scaffold.py,outputs/tables/translation_summary.csv,Translate detected simple ORFs
+5,fastq_quality_summary,reads.fastq,python/05_fastq_quality_summary.py,outputs/tables/fastq_quality_summary.csv,Summarize FASTQ-style quality scores
+6,variant_validation,variants.csv,python/06_variant_validation.py,outputs/tables/variant_validation.csv,Validate variant table and calculate VAF
+7,metadata_validation,sequence_metadata.csv,python/07_metadata_validation.py,outputs/tables/metadata_validation.csv,Validate sequence metadata against FASTA IDs
+8,workflow_manifest,workflow_steps.csv,python/08_workflow_manifest.py,outputs/tables/workflow_manifest.csv,Record workflow artifacts and checksums
+9,generate_report,sequence_summary.csv;variant_validation.csv,python/09_generate_report.py,outputs/reports/genomics_sequence_report.md,Generate reproducible report

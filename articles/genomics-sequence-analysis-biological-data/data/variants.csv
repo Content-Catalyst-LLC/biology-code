@@ -1,0 +1,5 @@
+variant_id,chromosome,position,reference,alternate,read_depth,alternate_depth,quality,reference_version
+var_001,chr1,1050,A,G,42,18,61.5,synthetic_ref_v1
+var_002,chr1,1088,G,A,31,3,22.0,synthetic_ref_v1
+var_003,chr2,2201,T,C,8,4,18.2,synthetic_ref_v1
+var_004,chr2,2310,C,T,56,49,70.1,synthetic_ref_v1

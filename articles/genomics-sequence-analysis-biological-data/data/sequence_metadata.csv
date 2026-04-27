@@ -1,0 +1,5 @@
+sequence_id,organism,source,condition,batch,qc_flag,notes
+sample_01,model_species,tissue,control,batch_01,pass,Synthetic sequence record
+sample_02,model_species,tissue,treated,batch_01,review,Contains ambiguous bases
+sample_03,microbial_model,environmental_sample,treated,batch_02,pass,Synthetic sequence record
+sample_04,model_species,coding_region,control,batch_02,pass,Synthetic coding-like sequence
