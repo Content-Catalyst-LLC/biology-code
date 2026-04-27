@@ -1,0 +1,9 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,generate_synthetic_microscopy,synthetic_objects.csv,python/01_generate_synthetic_microscopy.py,outputs/tables/synthetic_image_pixels.csv,Generate synthetic microscopy-like image pixels
+2,threshold_segmentation,synthetic_image_pixels.csv,python/02_threshold_segmentation.py,outputs/tables/segmentation_mask.csv,Apply threshold segmentation
+3,object_feature_extraction,segmentation_mask.csv,python/03_object_feature_extraction.py,outputs/tables/object_features.csv,Extract object-level image features
+4,segmentation_validation,segmentation_validation_pixels.csv,python/04_segmentation_validation.py,outputs/tables/segmentation_validation_metrics.csv,Calculate Dice and IoU validation metrics
+5,colocalization_summary,colocalization_pixels.csv,python/05_colocalization_summary.py,outputs/tables/colocalization_summary.csv,Calculate colocalization scaffolds
+6,tracking_summary,tracks.csv,python/06_tracking_summary.py,outputs/tables/tracking_summary.csv,Summarize time-lapse tracking trajectories
+7,workflow_manifest,workflow_steps.csv,python/07_workflow_manifest.py,outputs/tables/workflow_manifest.csv,Record workflow artifacts and checksums
+8,generate_report,object_features.csv;segmentation_validation_metrics.csv;colocalization_summary.csv;tracking_summary.csv,python/08_generate_report.py,outputs/reports/microscopy_image_analysis_report.md,Generate reproducible image-analysis report

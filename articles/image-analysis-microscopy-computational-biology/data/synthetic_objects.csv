@@ -1,0 +1,7 @@
+object_id,cx,cy,sigma,amplitude,channel
+cell_01,18,20,4.0,140,A
+cell_02,42,25,5.0,170,A
+cell_03,30,45,4.5,155,A
+signal_01,19,21,4.2,120,B
+signal_02,41,26,5.2,150,B
+signal_03,33,44,4.8,92,B

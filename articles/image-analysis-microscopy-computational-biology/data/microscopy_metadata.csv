@@ -1,0 +1,2 @@
+image_id,sample_id,width,height,channels,pixel_size_um,z_spacing_um,time_interval_s,objective,notes
+synthetic_image_001,sample_A,64,64,2,0.65,1.50,30.0,synthetic_40x,Educational synthetic microscopy image
