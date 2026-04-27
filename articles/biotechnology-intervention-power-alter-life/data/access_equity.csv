@@ -1,0 +1,7 @@
+intervention,nominal_availability,inequality_penalty,implementation_infrastructure
+somatic_gene_therapy,0.70,0.65,specialized_clinical_centers
+engineered_microbe_bioremediation,0.60,0.35,environmental_monitoring_capacity
+gene_drive_vector_control,0.50,0.40,public_health_governance
+drought_tolerant_crop,0.80,0.45,seed_systems_and_extension
+cellular_immunotherapy,0.65,0.75,specialized_cell_processing
+synthetic_biology_biosensor,0.75,0.30,field_deployable_monitoring

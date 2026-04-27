@@ -1,0 +1,7 @@
+intervention,domain,scale,expected_benefit,expected_harm,uncertainty,reversibility,access_equity,governance_readiness
+somatic_gene_therapy,medicine,individual,0.85,0.20,0.30,0.60,0.35,0.70
+engineered_microbe_bioremediation,environment,ecosystem,0.70,0.35,0.45,0.40,0.55,0.50
+gene_drive_vector_control,public_health,population,0.80,0.55,0.70,0.15,0.50,0.35
+drought_tolerant_crop,agriculture,land_system,0.65,0.25,0.35,0.55,0.45,0.65
+cellular_immunotherapy,medicine,individual,0.78,0.30,0.35,0.50,0.25,0.75
+synthetic_biology_biosensor,environment,contained_field_use,0.60,0.20,0.30,0.65,0.60,0.60

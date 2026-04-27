@@ -1,0 +1,6 @@
+scenario,exposure,magnitude,uncertainty,monitoring_capacity,reversibility
+contained_lab,0.10,0.20,0.20,0.90,0.80
+clinical_somatic,0.25,0.40,0.35,0.80,0.60
+agricultural_field,0.55,0.55,0.50,0.60,0.45
+ecological_release,0.85,0.75,0.80,0.40,0.15
+gene_drive_release,0.95,0.85,0.90,0.35,0.10

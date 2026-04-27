@@ -1,0 +1,7 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,risk_benefit_scoring,biotechnology_interventions.csv,python/01_intervention_risk_benefit.py,outputs/tables/intervention_risk_benefit_scores.csv,Score synthetic biotechnology interventions
+2,containment_probability,containment_layers.csv,python/02_containment_probability.py,outputs/tables/containment_probability.csv,Estimate probability that at least one containment layer fails
+3,equity_adjusted_access,access_equity.csv,python/03_equity_adjusted_access.py,outputs/tables/equity_adjusted_access.csv,Calculate equity-adjusted access
+4,ecological_release_scenarios,ecological_release_scenarios.csv,python/04_ecological_release_scenarios.py,outputs/tables/ecological_release_risk_scores.csv,Score ecological release scenarios
+5,provenance_manifest,workflow_manifest.csv,python/05_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+6,report,intervention_risk_benefit_scores.csv;containment_probability.csv;equity_adjusted_access.csv,python/06_generate_biotechnology_report.py,outputs/reports/biotechnology_intervention_report.md,Generate report

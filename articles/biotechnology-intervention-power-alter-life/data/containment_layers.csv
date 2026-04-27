@@ -1,0 +1,7 @@
+layer,category,failure_probability,description
+physical_containment,facility,0.010,Facility and equipment containment layer
+procedural_controls,practice,0.020,Training protocols and standard operating procedures
+genetic_safeguard,biological,0.050,Auxotrophy kill switch or genetic dependency
+waste_decontamination,operations,0.015,Validated decontamination and waste handling
+access_control,security,0.010,Physical and procedural access control
+inventory_tracking,governance,0.012,Material inventory and chain-of-custody tracking
