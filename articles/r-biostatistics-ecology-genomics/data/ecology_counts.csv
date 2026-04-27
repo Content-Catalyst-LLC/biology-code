@@ -1,0 +1,17 @@
+site,habitat,species,count,sampling_effort_hours
+reef_A,restored,sp_1,18,2
+reef_A,restored,sp_2,7,2
+reef_A,restored,sp_3,3,2
+reef_A,restored,sp_4,0,2
+reef_B,reference,sp_1,10,2
+reef_B,reference,sp_2,11,2
+reef_B,reference,sp_3,9,2
+reef_B,reference,sp_4,4,2
+reef_C,degraded,sp_1,21,2
+reef_C,degraded,sp_2,2,2
+reef_C,degraded,sp_3,1,2
+reef_C,degraded,sp_4,0,2
+reef_D,reference,sp_1,7,2
+reef_D,reference,sp_2,13,2
+reef_D,reference,sp_3,10,2
+reef_D,reference,sp_4,8,2

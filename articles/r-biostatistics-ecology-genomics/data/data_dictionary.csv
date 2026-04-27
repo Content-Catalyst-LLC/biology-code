@@ -1,0 +1,16 @@
+column_name,description,unit,required,domain
+sample_id,Unique biological sample identifier,,true,biostatistics/genomics
+treatment,Experimental treatment group,,true,biostatistics
+batch,Analytical batch identifier,,true,biostatistics/genomics
+subject_id,Subject identifier,,false,biostatistics
+response,Continuous biological response,arbitrary,true,biostatistics
+binary_response,Binary biological response,,false,biostatistics
+time,Time-to-event observation time,days,false,biostatistics
+event,Event indicator where 1 means event observed,,false,biostatistics
+site,Ecological sampling site,,true,ecology
+habitat,Habitat or site condition,,true,ecology
+species,Species or taxon identifier,,true,ecology
+count,Observed count,count,true,ecology
+gene_id,Gene or genomic feature identifier,,true,genomics
+condition,Genomics experimental condition,,true,genomics
+library_prep,Library preparation identifier,,false,genomics

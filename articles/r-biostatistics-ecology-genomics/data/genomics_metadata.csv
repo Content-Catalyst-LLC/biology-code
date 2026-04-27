@@ -1,0 +1,7 @@
+sample_id,condition,batch,library_prep,organism,tissue
+sample_01,control,batch_01,prep_A,model_species,liver
+sample_02,control,batch_01,prep_A,model_species,liver
+sample_03,control,batch_02,prep_B,model_species,liver
+sample_04,treated,batch_02,prep_B,model_species,liver
+sample_05,treated,batch_03,prep_C,model_species,liver
+sample_06,treated,batch_03,prep_C,model_species,liver

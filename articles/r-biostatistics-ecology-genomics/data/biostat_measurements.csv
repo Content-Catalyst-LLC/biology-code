@@ -1,0 +1,13 @@
+sample_id,treatment,batch,subject_id,response,binary_response,time,event,qc_flag
+sample_01,control,batch_01,subject_01,10.2,0,12,1,pass
+sample_02,control,batch_01,subject_02,10.5,0,14,1,pass
+sample_03,control,batch_01,subject_03,10.1,0,11,1,pass
+sample_04,control,batch_02,subject_04,10.4,1,15,0,pass
+sample_05,control,batch_02,subject_05,10.3,0,10,1,pass
+sample_06,control,batch_02,subject_06,10.6,0,13,1,pass
+sample_07,treated,batch_02,subject_07,12.1,1,18,0,pass
+sample_08,treated,batch_02,subject_08,12.4,1,20,0,pass
+sample_09,treated,batch_03,subject_09,11.9,1,17,1,pass
+sample_10,treated,batch_03,subject_10,12.8,1,22,0,review
+sample_11,treated,batch_03,subject_11,12.0,1,19,1,pass
+sample_12,treated,batch_03,subject_12,12.5,1,21,0,pass

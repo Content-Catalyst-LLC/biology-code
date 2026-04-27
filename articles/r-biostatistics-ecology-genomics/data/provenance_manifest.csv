@@ -1,0 +1,6 @@
+step_id,input_artifact,operation,script,output_artifact,notes
+1,biostat_measurements.csv,biostatistical_models,r/01_biostatistics_models.R,outputs/tables/biostatistics_model_summary.csv,Fit basic biostatistical models
+2,ecology_counts.csv,ecological_diversity_ordination,r/02_ecology_diversity_ordination.R,outputs/tables/ecology_diversity_ordination.csv,Compute diversity and ordination scaffolds
+3,genomics_counts.csv,genomics_count_normalization,r/03_genomics_count_workflow.R,outputs/tables/genomics_count_summary.csv,Normalize counts and compute log fold change
+4,biostat_measurements.csv;ecology_counts.csv;genomics_counts.csv,visualization_suite,r/04_visualization_suite.R,outputs/figures/r_biology_workflow_panels.png,Create reproducible visualization outputs
+5,provenance_manifest.csv,reproducibility_manifest,r/05_reproducibility_manifest.R,outputs/tables/reproducibility_manifest.csv,Record artifacts and workflow steps
