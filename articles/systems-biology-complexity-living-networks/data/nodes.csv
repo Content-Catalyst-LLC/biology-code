@@ -1,0 +1,10 @@
+node_id,node_type,pathway,description
+GATA1,gene,differentiation,Transcriptional differentiation regulator
+SPI1,gene,differentiation,Transcriptional lineage regulator
+MYC,gene,growth,Proliferation-associated transcriptional regulator
+MAPK1,protein,signaling,Mitogen-activated kinase scaffold node
+AKT1,protein,signaling,Cell survival and growth signaling node
+TP53,protein,stress_response,Stress-response and cell-cycle control node
+GLUCOSE,metabolite,metabolism,Carbon source metabolite
+PYRUVATE,metabolite,metabolism,Central carbon metabolite
+BIOMASS,metabolite,metabolism,Abstract biomass precursor

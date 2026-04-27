@@ -1,0 +1,10 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,network_summary,nodes.csv;interactions.csv,python/01_network_summary.py,outputs/tables/network_summary.csv,Summarize biological network topology
+2,signal_propagation,interactions.csv,python/02_signal_propagation.py,outputs/simulations/signal_propagation.csv,Simulate directed signal propagation
+3,feedback_dynamics,feedback_parameters.csv,python/03_feedback_dynamics.py,outputs/simulations/feedback_dynamics.csv,Simulate negative-feedback dynamics
+4,pathway_activity,expression.csv;pathway_gene_sets.csv,python/04_pathway_activity.py,outputs/tables/pathway_activity.csv,Calculate pathway activity scores
+5,flux_balance_scaffold,flux_reactions.csv;stoichiometry.csv,python/05_flux_balance_scaffold.py,outputs/tables/flux_balance_residuals.csv,Calculate stoichiometric mass-balance residuals
+6,omics_integration,nodes.csv;interactions.csv;expression.csv;pathway_gene_sets.csv,python/06_omics_integration.py,outputs/tables/omics_network_integration.csv,Integrate omics state with network topology
+7,validation_metrics,validation_observations.csv,python/07_validation_metrics.py,outputs/tables/validation_metrics.csv,Calculate prediction validation metrics
+8,workflow_manifest,workflow_steps.csv,python/08_workflow_manifest.py,outputs/tables/workflow_manifest.csv,Record workflow artifacts and checksums
+9,generate_report,network_summary.csv;pathway_activity.csv;validation_metrics.csv,python/09_generate_report.py,outputs/reports/systems_biology_report.md,Generate reproducible systems-biology report

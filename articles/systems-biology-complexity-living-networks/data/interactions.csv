@@ -1,0 +1,9 @@
+source,target,interaction,sign,weight,evidence_score
+GATA1,SPI1,inhibits,-1,0.82,0.82
+SPI1,GATA1,inhibits,-1,0.78,0.78
+MYC,AKT1,activates,1,0.74,0.74
+MAPK1,MYC,activates,1,0.69,0.69
+AKT1,MAPK1,activates,1,0.66,0.66
+TP53,MYC,inhibits,-1,0.88,0.88
+TP53,AKT1,inhibits,-1,0.72,0.72
+MAPK1,TP53,activates,1,0.55,0.55

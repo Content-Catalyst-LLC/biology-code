@@ -1,0 +1,4 @@
+reaction,lower_bound,upper_bound,chosen_flux,description
+glucose_import,0,10,8,Import of glucose into system
+glycolysis,0,10,8,Conversion of glucose into pyruvate
+biomass,0,6,4,Conversion of pyruvate into biomass precursor

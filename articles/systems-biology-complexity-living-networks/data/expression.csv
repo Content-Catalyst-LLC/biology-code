@@ -1,0 +1,7 @@
+gene,z_score,condition,measurement_type
+GATA1,1.20,perturbed,transcript
+SPI1,-0.80,perturbed,transcript
+MYC,1.50,perturbed,transcript
+MAPK1,0.90,perturbed,protein_activity
+AKT1,0.70,perturbed,protein_activity
+TP53,-1.10,perturbed,protein_activity

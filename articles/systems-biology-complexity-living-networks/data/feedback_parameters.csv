@@ -1,0 +1,4 @@
+scenario,x0,y0,production_x,production_y,degradation_x,degradation_y,hill_n,dt,steps
+baseline_feedback,0.20,0.10,1.20,0.80,0.40,0.30,2.0,0.10,80
+strong_feedback,0.20,0.10,1.20,1.10,0.40,0.30,3.0,0.10,80
+weak_feedback,0.20,0.10,1.20,0.50,0.40,0.30,1.0,0.10,80

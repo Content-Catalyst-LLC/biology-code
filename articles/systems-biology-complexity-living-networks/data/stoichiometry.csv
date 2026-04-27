@@ -1,0 +1,4 @@
+metabolite,glucose_import,glycolysis,biomass
+GLUCOSE,1,-1,0
+PYRUVATE,0,2,-2
+BIOMASS,0,0,1

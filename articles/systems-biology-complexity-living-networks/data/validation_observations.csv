@@ -1,0 +1,7 @@
+node_id,observed_response,predicted_response
+GATA1,1.10,1.00
+SPI1,-0.75,-0.60
+MYC,1.42,1.55
+MAPK1,0.82,0.90
+AKT1,0.68,0.71
+TP53,-1.05,-0.92
