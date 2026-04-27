@@ -1,0 +1,7 @@
+farm_system,crop_diversity,soil_biological_function,landscape_heterogeneity,pollinator_habitat,natural_enemy_habitat
+monocrop_grain,0.20,0.35,0.25,0.18,0.22
+diversified_crop,0.65,0.70,0.60,0.62,0.58
+agroforestry,0.80,0.82,0.88,0.84,0.78
+mixed_crop_livestock,0.55,0.62,0.58,0.50,0.60
+vegetable_smallholder,0.72,0.68,0.52,0.60,0.55
+rice_wetland,0.38,0.50,0.46,0.42,0.45

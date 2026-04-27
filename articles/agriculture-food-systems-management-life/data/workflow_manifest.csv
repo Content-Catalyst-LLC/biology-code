@@ -1,0 +1,8 @@
+step_id,operation,input_artifact,script,output_artifact,notes
+1,food_system_indicators,production_systems.csv,python/01_food_system_indicators.py,outputs/tables/food_system_indicators.csv,Calculate yield water productivity nutrient efficiency and loss rate
+2,biodiversity_resilience,biodiversity_resilience.csv,python/02_biodiversity_resilience.py,outputs/tables/biodiversity_resilience_scores.csv,Calculate biodiversity resilience indicators
+3,soil_carbon_change,soil_carbon.csv,python/03_soil_carbon_change.py,outputs/tables/soil_carbon_change.csv,Calculate soil organic carbon change
+4,diet_diversity,diet_diversity.csv,python/04_diet_diversity.py,outputs/tables/diet_diversity_scores.csv,Calculate diet diversity scores
+5,food_loss_accounting,food_loss_stages.csv,python/05_food_loss_accounting.py,outputs/tables/food_loss_accounting.csv,Calculate stage-specific food loss and waste
+6,provenance,workflow_manifest.csv,python/06_provenance_manifest.py,outputs/manifests/provenance_manifest.csv,Record workflow checksums
+7,report,food_system_indicators.csv;biodiversity_resilience_scores.csv;soil_carbon_change.csv,python/07_generate_food_system_report.py,outputs/reports/agriculture_food_system_report.md,Generate report

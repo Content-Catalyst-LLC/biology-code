@@ -1,0 +1,7 @@
+system,production_tonnes,harvest_loss_tonnes,storage_loss_tonnes,processing_loss_tonnes,retail_loss_tonnes,consumer_waste_tonnes
+monocrop_grain,850,35,28,12,8,7
+diversified_crop,620,20,12,6,4,3
+agroforestry,480,12,8,5,3,2
+mixed_crop_livestock,700,22,14,10,7,7
+vegetable_smallholder,260,9,5,3,3,2
+rice_wetland,540,30,22,10,7,6

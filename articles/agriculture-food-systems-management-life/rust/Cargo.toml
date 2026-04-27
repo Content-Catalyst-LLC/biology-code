@@ -1,0 +1,6 @@
+[package]
+name = "agriculture_food_system_resilience_ranker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

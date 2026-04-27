@@ -1,0 +1,7 @@
+system,production_tonnes,area_hectares,water_used_m3,nutrient_input_kg,nutrient_harvested_kg,food_lost_tonnes,system_type
+monocrop_grain,850,100,420000,12000,4800,90,annual_crop
+diversified_crop,620,80,260000,7600,4100,45,diversified_crop
+agroforestry,480,75,210000,5200,3600,30,tree_crop_mixed
+mixed_crop_livestock,700,95,350000,9000,4700,60,mixed_farming
+vegetable_smallholder,260,28,95000,3100,2100,22,horticulture
+rice_wetland,540,60,520000,7800,3500,75,irrigated_crop

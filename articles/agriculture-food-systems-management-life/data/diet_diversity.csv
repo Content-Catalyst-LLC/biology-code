@@ -1,0 +1,7 @@
+household_id,grains,legumes,fruits,vegetables,animal_source,nuts_seeds,dairy,food_access_constraint
+H001,1,1,1,1,0,1,0,low
+H002,1,0,0,1,0,0,0,high
+H003,1,1,1,1,1,0,1,low
+H004,1,0,0,0,0,0,0,high
+H005,1,1,0,1,0,0,1,medium
+H006,1,1,1,1,0,1,1,low
