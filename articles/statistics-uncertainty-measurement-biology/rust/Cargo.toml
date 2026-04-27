@@ -1,0 +1,6 @@
+[package]
+name = "statistics_measurement_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

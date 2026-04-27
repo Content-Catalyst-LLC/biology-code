@@ -1,0 +1,6 @@
+source,standard_uncertainty,unit,category
+instrument_repeatability,0.12,arbitrary_units,technical
+calibration_standard,0.08,arbitrary_units,calibration
+sample_preparation,0.15,arbitrary_units,preparation
+operator_variability,0.06,arbitrary_units,operator
+temperature_effect,0.05,arbitrary_units,environmental

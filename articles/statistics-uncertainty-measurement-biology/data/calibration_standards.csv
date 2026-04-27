@@ -1,0 +1,7 @@
+standard_id,concentration,response
+std_00,0,0.05
+std_01,1,0.82
+std_02,2,1.58
+std_05,5,3.95
+std_10,10,7.84
+std_20,20,15.70

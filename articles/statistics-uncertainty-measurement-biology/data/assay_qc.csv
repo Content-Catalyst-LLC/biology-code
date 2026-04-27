@@ -1,0 +1,6 @@
+run_id,control_low,control_high,blank_response,positive_control,notes
+run_001,2.05,9.92,0.03,15.21,synthetic_qc
+run_002,2.12,10.05,0.04,15.44,synthetic_qc
+run_003,1.98,9.85,0.02,15.10,synthetic_qc
+run_004,2.25,10.31,0.06,15.60,synthetic_qc
+run_005,2.01,9.98,0.03,15.29,synthetic_qc
