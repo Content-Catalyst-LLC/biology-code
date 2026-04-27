@@ -1,0 +1,6 @@
+step_id,input_artifact,operation,script,output_artifact,notes
+1,measurements.csv,measurement_summary,r/01_measurement_quality_summary.R,outputs/tables/measurement_summary.csv,Summarize valid pass-QC measurements
+2,measurements.csv,assay_visualization,r/02_assay_visualization.R,outputs/figures/assay_plot.png,Create reproducible assay visualization
+3,species_counts.csv,ecological_diversity,r/03_ecological_diversity.R,outputs/tables/ecological_diversity.csv,Calculate richness and Shannon diversity
+4,dose_response.csv,dose_response_visualization,r/04_dose_response_visualization.R,outputs/figures/dose_response_plot.png,Create descriptive dose-response plot
+5,provenance_manifest.csv,reproducibility_manifest,r/05_reproducibility_manifest.R,outputs/tables/artifact_manifest.csv,Record project artifacts

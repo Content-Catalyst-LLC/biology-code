@@ -1,0 +1,6 @@
+[package]
+name = "r_biology_summary_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

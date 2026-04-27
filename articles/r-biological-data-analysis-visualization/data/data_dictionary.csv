@@ -1,0 +1,16 @@
+column_name,description,unit,required,allowed_values
+sample_id,Unique biological sample identifier,,true,
+treatment,Experimental treatment group,,true,control|treated
+tissue,Tissue or biological material,,true,
+batch_id,Analytical batch identifier,,true,
+instrument_id,Instrument identifier,,true,
+value,Measured biological quantity,mmol/L,true,
+unit,Measurement unit,,true,mmol/L
+qc_flag,Quality-control status,,true,pass|review|fail
+site,Ecological sampling site,,false,
+habitat,Habitat or site condition,,false,restored|reference|degraded
+species,Species or taxon identifier,,false,
+count,Observed count,count,false,
+survey_effort_hours,Survey effort in hours,hours,false,
+dose,Experimental dose,arbitrary,false,
+response,Measured response,relative_response,false,
