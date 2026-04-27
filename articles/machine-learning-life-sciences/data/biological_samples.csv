@@ -1,0 +1,13 @@
+sample_id,organism,tissue_or_environment,condition,batch_id,collection_site
+S001,human,blood,case,B1,clinic_a
+S002,human,blood,case,B1,clinic_a
+S003,human,tissue,case,B2,clinic_b
+S004,human,tissue,case,B2,clinic_b
+S005,human,blood,control,B1,clinic_a
+S006,human,blood,control,B1,clinic_a
+S007,human,tissue,control,B2,clinic_b
+S008,human,tissue,control,B2,clinic_b
+S009,human,blood,case,B3,clinic_c
+S010,human,tissue,case,B3,clinic_c
+S011,human,blood,control,B3,clinic_c
+S012,human,tissue,control,B3,clinic_c

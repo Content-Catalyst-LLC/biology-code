@@ -1,0 +1,6 @@
+[package]
+name = "machine_learning_life_sciences"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

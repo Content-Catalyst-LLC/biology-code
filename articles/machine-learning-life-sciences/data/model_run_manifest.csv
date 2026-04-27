@@ -1,0 +1,5 @@
+run_id,model_name,script,input_data,output_artifact,random_seed,intended_use
+MLLS001,random_forest_biomarker_classifier,python/01_train_biomarker_classifier.py,biological_samples.csv;biomarker_features.csv,outputs/models/biomarker_classifier.joblib,42,educational synthetic biomarker classification
+MLLS002,external_validation,python/02_external_validation.py,external_validation_samples.csv;outputs/models/biomarker_classifier.joblib,outputs/tables/external_validation_metrics.csv,42,educational external validation scaffold
+MLLS003,feature_importance,python/03_feature_importance_report.py,outputs/models/biomarker_classifier.joblib,outputs/tables/feature_importance.csv,42,educational model inspection
+MLLS004,provenance_manifest,python/04_model_provenance_manifest.py,model_run_manifest.csv,outputs/tables/model_provenance_manifest.csv,42,workflow provenance
