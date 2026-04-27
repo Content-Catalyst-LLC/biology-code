@@ -1,0 +1,17 @@
+experimental_unit,temperature,nutrient,replicate,response
+ambient_low_1,ambient,low,1,10.1
+ambient_low_2,ambient,low,2,10.4
+ambient_low_3,ambient,low,3,10.2
+ambient_low_4,ambient,low,4,10.5
+ambient_high_1,ambient,high,1,12.0
+ambient_high_2,ambient,high,2,12.3
+ambient_high_3,ambient,high,3,11.8
+ambient_high_4,ambient,high,4,12.1
+hot_low_1,high_temperature,low,1,9.6
+hot_low_2,high_temperature,low,2,9.8
+hot_low_3,high_temperature,low,3,9.4
+hot_low_4,high_temperature,low,4,9.7
+hot_high_1,high_temperature,high,1,13.4
+hot_high_2,high_temperature,high,2,13.1
+hot_high_3,high_temperature,high,3,13.8
+hot_high_4,high_temperature,high,4,13.5

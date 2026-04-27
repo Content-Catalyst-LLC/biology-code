@@ -1,0 +1,13 @@
+block,treatment,response
+block_01,control,10.1
+block_01,treated,11.8
+block_02,control,9.9
+block_02,treated,11.5
+block_03,control,10.6
+block_03,treated,12.2
+block_04,control,10.4
+block_04,treated,12.0
+block_05,control,9.7
+block_05,treated,11.1
+block_06,control,10.2
+block_06,treated,11.9

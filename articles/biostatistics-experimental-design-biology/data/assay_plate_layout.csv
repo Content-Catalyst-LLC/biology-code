@@ -1,0 +1,13 @@
+well,row,column,treatment,block
+A01,A,1,control,plate_1
+A02,A,2,treated,plate_1
+A03,A,3,low_dose,plate_1
+A04,A,4,high_dose,plate_1
+B01,B,1,treated,plate_1
+B02,B,2,control,plate_1
+B03,B,3,high_dose,plate_1
+B04,B,4,low_dose,plate_1
+C01,C,1,low_dose,plate_1
+C02,C,2,high_dose,plate_1
+C03,C,3,control,plate_1
+C04,C,4,treated,plate_1
